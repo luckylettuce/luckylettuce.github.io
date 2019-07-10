@@ -1,0 +1,82 @@
+body {
+			 background-color: #f1f1f1;
+			 display: block;
+			 text-decoration: none;
+		}
+
+p {
+			font-family: HelveticaNeue-medium,Helvetica,Arial,sans-serif;
+			 font-weight: 400;
+			  font-size: 18px;
+			  font-style: normal;
+			  text-align: left;
+			   color: #000000;
+		}
+
+h1 {
+	font-family: 'Gotham-Medium', sans-serif;
+	font-weight: 800;
+	font-size: 38px;
+	letter-spacing:3px;
+	color: #000
+}
+
+
+
+h2 {	font-family: 'Gotham-Medium', sans-serif;
+	font-weight: 700;
+	font-size: 28px;
+	font-weight:700;
+	letter-spacing:3px;
+	color: #28B463;
+}
+
+
+ul {
+	list-style-type: circle;
+	color: #aa2562;
+
+}
+
+
+img {
+  border: 1px solid #28B463;
+  border-radius: 50%;
+  padding: 2px;
+
+}
+
+#slogan {
+	font-family: 'Gotham-Medium', sans-serif;
+	font-weight: 800;
+	font-size: 30px;
+	font-style: italic;
+	letter-spacing:3px;
+	color: #000
+}
+
+
+.btn {
+  font-family: HelveticaNeue-medium,Helvetica,Arial,sans-serif;
+  text-transform: uppercase;
+  font-size: 18px;
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  text-align: center;
+  line-height: 1;
+  color: #FFFFFF;
+  padding: 1.5625rem;
+  letter-spacing: 1px;
+  border: none;
+}
+
+hr {
+	margin:5px 0;
+	height: 1px;
+	border: none;
+	background-color: #aa2562;
+}
+
+
+
