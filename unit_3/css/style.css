@@ -64,6 +64,7 @@ border: 1px solid #28B463;
 
 hr {
 	margin:5px 0;
+	align-self: center;
 	height: 1px;
 	border: none;
 	background-color: #aa2562;
