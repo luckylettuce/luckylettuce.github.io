@@ -1,5 +1,5 @@
 body {
-			 background-image: "images/salad-home.jpg";
+			 background-image: url(salad-home.jpg);
 			 text-align: center;
 			 background-size: cover;
   			 color: #000;
@@ -65,7 +65,7 @@ img {
 	color: #000
 }
 
-#favorite{
+#favorite {
   padding: 5px;
   border-radius: 50%;
 border: 1px solid #28B463;
