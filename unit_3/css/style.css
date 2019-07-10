@@ -54,6 +54,12 @@ img {
 	color: #000
 }
 
+#favorite{
+  padding: 3px;
+  border-radius: 50%;
+border: 1px solid #28B463;
+}
+
 
 .btn {
   font-family: HelveticaNeue-medium,Helvetica,Arial,sans-serif;
