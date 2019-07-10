@@ -33,15 +33,14 @@ h2 {	font-family: 'Gotham-Medium', sans-serif;
 
 
 ul {
-	list-style-type: circle;
+	list-style-type: disc;
 	color: #aa2562;
+	font-color: #000;
 
 }
 
 
 img {
-  border: 1px solid #28B463;
-  border-radius: 50%;
   padding: 2px;
 
 }
