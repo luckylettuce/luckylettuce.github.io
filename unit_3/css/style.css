@@ -78,7 +78,8 @@ border: 1px solid #28B463;
 }
 
 #hero {
-	width: auto;
+	width: 1000px;
+	height:500px;
 	max-height: 500px;
 }
 
