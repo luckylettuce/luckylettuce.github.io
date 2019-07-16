@@ -79,9 +79,8 @@ border: 1px solid #28B463;
 
 #hero {
 	background-image: url("../images/salad-home.jpg");
-	width: 1000px;
+	width: auto;
 	height:500px;
-	max-height: 500px;
 }
 
 hr {
