@@ -4,7 +4,7 @@
 
 
 body {
-			 background-image: url("../images/salad-home.jpg");
+			 
 			 text-align: center;
 			 background-size: cover;
   			 color: #000;
@@ -78,6 +78,7 @@ border: 1px solid #28B463;
 }
 
 #hero {
+	background-image: url("../images/salad-home.jpg");
 	width: 1000px;
 	height:500px;
 	max-height: 500px;
