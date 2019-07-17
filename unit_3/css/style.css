@@ -77,8 +77,8 @@ img {
 
 #hero {
 	background-image: url("../images/salad-home.jpg");
-	width: 100%;
-	height:auto;
+	max-width: 1100px;
+	height:500px;
 	background-size: cover;
 }
 
