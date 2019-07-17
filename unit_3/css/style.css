@@ -76,11 +76,11 @@ img {
 }
 
 #hero {
-	background-image: url("../images/salad-home.jpg");
+	background-image: url("../images/new-hero.png");
 	margin: 5px;
-	align: center;
-	max-width: 1200px;
-	height:400px;
+	text-align: center;
+	width: auto;
+	height:auto;
 	background-size: cover;
 }
 
