@@ -1,22 +1,26 @@
+
+@import url('https://fonts.googleapis.com/css?family=Raleway|Roboto+Slab:700|Roboto:500&display=swap');
+
+
+
 body {
-			 background-image: url("../images/salad-home.jpg");
-			 text-align: center;
-			 background-size: cover;
-  			 color: #000;
+			 
+	text-align: center;
+  	color: #000;
 		}
 
 
 p {
-			font-family: Lato,Helvetica,Arial,sans-serif;
-			 font-weight: 400;
-			  font-size: 18px;
-			  font-style: normal;
-			   color: #000000;
+	font-family: 'Raleway', sans-serif;
+	font-weight: 400;
+	font-size: 18px;
+	font-style: normal;
+	color: #000000;
 		}
 
 h1 {
-	font-family: 'Lato', sans-serif;
-	font-weight: 800;
+	font-family: font-family: 'Roboto Slab', serif;
+	font-weight: 700;
 	font-size: 38px;
 	letter-spacing:3px;
 	color: #000
@@ -25,8 +29,7 @@ h1 {
 
 
 h2 {	
-	font-family: 'Lato', sans-serif;
-	font-weight: 700;
+	font-family: 'Roboto', sans-serif
 	font-size: 28px;
 	font-weight:700;
 	letter-spacing:3px;
@@ -38,17 +41,17 @@ ul {
 	text-align: center;
 	list-style-type: disc;
 	color: #aa2562;
-    list-style-position: inside;
+   	list-style-position: inside;
 
 }
 
 
 li {
 
-  font-color: #000;
-  font-family: 'Lato', sans-serif;
-  font-size: 20px;
- font-weight:500;
+  	font-color: #000;
+ 	font-family: 'Lato', sans-serif;
+  	font-size: 20px;
+ 	font-weight:500;
 
 }
 
@@ -67,14 +70,18 @@ img {
 }
 
 #favorite {
-  padding: 5px;
-  border-radius: 50%;
-border: 1px solid #28B463;
+ 	padding: 5px;
+  	border-radius: 50%;
+	border: 1px solid #28B463;
 }
 
 #hero {
-	width: auto;
-	max-height: 500px;
+	background-image: url("../images/new-hero.png");
+	margin: 5px;
+	text-align: center;
+	width: 100%;
+	height:400px;
+	background-size: cover;
 }
 
 hr {
@@ -84,6 +91,5 @@ hr {
 	border: none;
 	background-color: #aa2562;
 }
-
 
 
