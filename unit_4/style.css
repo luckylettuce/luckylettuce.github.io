@@ -76,7 +76,7 @@ img {
 }
 
 #hero {
-	background-image: url("..unit_3/images/new-hero.png");
+	background-image: url("/images/new-hero.png");
 	margin: 5px;
 	text-align: center;
 	width: 100%;
