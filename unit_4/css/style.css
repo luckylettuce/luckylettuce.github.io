@@ -77,11 +77,11 @@ img {
 
 #hero {
 	background-image: url(../images/home-hero.png);
-    margin: 5px;
-    text-align: center;
-    width: auto;
-    height: 800px;
-    background-size: cover;
+    	margin: 5px;
+    	text-align: center;
+	 background-repeat: no-repeat;
+  	background-size: auto;
+    	width: auto;
 }
 
 hr {
