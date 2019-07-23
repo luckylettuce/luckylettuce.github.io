@@ -36,11 +36,18 @@ h2 {
 	color: #28B463;
 }
 
+h3 {	
+	font-family: 'Lato', sans-serif
+	font-size: 20px;
+	font-weight:600;
+	letter-spacing: 1px;
+	color: #aa2562;
+}
 
 ul {
 	text-align: center;
 	list-style-type: disc;
-	color: #aa2562;
+	color: #000;
    	list-style-position: inside;
 
 }
@@ -55,10 +62,30 @@ li {
 
 }
 
+nav li {
+	list-style-type: none;
+	display: inline-block;
+}
 
 img {
   padding: 2px;
 
+}
+
+
+#heroWrap {
+	background:#28B463;
+    margin: 5px;
+    width: 100%;
+    height: 400px;
+    background-size: cover;
+}
+
+#sloganwrap {
+	background: #fff;
+    margin: 5px;
+    width: 600px%;
+    height: 200px;
 }
 
 #slogan {
@@ -84,6 +111,9 @@ img {
     background-size: cover;
 }
 
+
+
+
 hr {
 	margin:5px 0;
 	text-align: center;
@@ -92,4 +122,12 @@ hr {
 	background-color: #aa2562;
 }
 
-
+.tile
+{
+	width:275px;
+	text-align:left;
+	display:inline-block;
+	vertical-align: top;
+	background-color: #f1f1f1;
+	padding: 15px;
+}
