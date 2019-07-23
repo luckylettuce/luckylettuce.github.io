@@ -5,12 +5,12 @@
 
 .wrapper {
   margin-right: auto; 
-  margin-left:  auto; 
-
-  max-width: 960px; 
-
+  margin-left:  auto;
   padding-right: 10px; 
   padding-left:  10px; 
+  background-color: #F1F2F2;
+  border: 1px black solid;
+  padding: 20px;
 }
 
 
@@ -106,6 +106,18 @@ img {
     background-size: cover;
 }
 
+#hero 
+
+{
+	background-image: url('../images/home-feature.png');
+    margin: 5px;
+    text-align: center;
+    width: auto;
+    height: auto;
+    background-size: cover;
+}
+
+
 #sloganwrap {
 	background: #fff;
     margin: 5px;
@@ -127,14 +139,7 @@ img {
 	border: 1px solid #28B463;
 }
 
-#hero {
-	background-image: url(../images/home-feature.png);
-    margin: 5px;
-    text-align: center;
-    width: auto;
-    height: auto;
-    background-size: cover;
-}
+
 
 #wrapper {
 
