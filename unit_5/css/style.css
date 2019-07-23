@@ -4,8 +4,8 @@
 header  {   
 
 	background-color: #FFED74;
-    border: 1px black solid;
-    padding: 20px;
+    	border: 1px black solid;
+    	padding: 20px;
 }
 
 body {
@@ -70,8 +70,8 @@ li {
 nav {
 
 	background-color: #E8C66A;
-    border: 1px black solid;
-    padding: 20px;
+    	border: 1px black solid;
+    	padding: 20px;
 }
 
 nav li {
@@ -87,8 +87,8 @@ article
 {
 
 	background-color: #E89C6C;
-    border: 1px black solid;
-    padding: 20px;
+    	border: 1px black solid;
+    	padding: 20px;
 }
 
 
@@ -96,21 +96,21 @@ aside
 {
 
 	background-color: #FFC675;
-    border: 1px black solid;
-    padding: 20px;
+    	border: 1px black solid;
+    	padding: 20px;
 }
 
 img {
-  padding: 2px;
+  	padding: 2px;
 
 }
 
 #herowrap
 {
 
-background-color: #F1F1F1;
-    border: 1px black solid;
-    padding: 20px;
+	background-color: #FFE2B8;
+    	border: 1px black solid;
+    	padding: 20px;
 }
 
 
@@ -127,10 +127,10 @@ background-color: #F1F1F1;
 
 
 #sloganwrap {
-background: #fff;
-    margin: 5px;
-    width: 600px;
-    height: 200px;
+	background: #fff;
+    	margin: 5px;
+    	width: 600px;
+    	height: 200px;
 }
 
 #slogan {
@@ -160,16 +160,16 @@ background: #fff;
 
 {   
 	background-color: #FFE2B8;
-    border: 1px black solid;
-    padding: 20px;
+    	border: 1px black solid;
+    	padding: 20px;
 }
 
 #featureWrap
 
 {   
 	background-color: #FFE2B8;
-    border: 1px black solid;
-    padding: 20px;
+   	border: 1px black solid;
+    	padding: 20px;
 }
 
 
@@ -182,8 +182,8 @@ background: #fff;
 #wrapper {
 
 	background-color: #FFE2B8;
-    border: 1px black solid;
-    padding: 20px;
+    	border: 1px black solid;
+    	padding: 20px;
 }
 
 
@@ -197,6 +197,6 @@ hr {
 
 footer {
 	background-color: #FF957E;
-    border: 1px black solid;
-    padding: 20px;
+    	border: 1px black solid;
+    	padding: 20px;
 }
