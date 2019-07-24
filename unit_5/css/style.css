@@ -200,7 +200,7 @@ img {
 	letter-spacing:2px;
 	color: #0076a3;
 	text-align: right;
-	vertical-align: bottom;
+	padding-bottom: 10px;
 }
 
 .tiles
