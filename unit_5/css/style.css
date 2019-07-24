@@ -195,11 +195,11 @@ img {
 .tiles
 {
 	width:250px;
-	text-align:left;
+	text-align:center;
 	background-color: #fff;
 	display:inline-block;
-	vertical-align: top;
-	padding:0px 10px 0 0px;
+	vertical-align: middle;
+	padding:25px;
 }
 
 #featureWrap
