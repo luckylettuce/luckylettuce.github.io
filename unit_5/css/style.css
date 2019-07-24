@@ -96,6 +96,7 @@ nav {
 
 nav ul li {
 	background-color: #fff;
+	font-family: 'Chelsea Market', cursive;
 	list-style-type: none;
 	display: inline-block;
 	font-weight:700;
