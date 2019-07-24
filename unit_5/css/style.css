@@ -109,7 +109,7 @@ nav li:hover a, nav li:hover
 article
 {
 
-		background-color: #E89C6C;
+	background-color: #E89C6C;
     	border: 1px black solid;
     	padding: 20px;
 }
@@ -131,7 +131,7 @@ img {
 #herowrap
 {
 
-		background-color: #FFE2B8;
+	background-color: #FFE2B8;
     	border: 1px black solid;
     	padding: 20px;
 }
@@ -152,14 +152,16 @@ img {
 #sloganwrap {
 	background: #fff;
     	margin: 5px;
-    	width: 600px;
-    	height: 200px;
+	opacity: 0.5;
+    	width: 400px;
+    	height: 100px;
+	padding: 20px;
 }
 
 #slogan {
-	font-family: 'Lato', sans-serif;
+	font-family: 'Roboto Slab', serif;
 	font-weight: 800;
-	font-size: 25px;
+	font-size: 30px;
 	letter-spacing:2px;
 	color: #000
 }
