@@ -195,10 +195,12 @@ img {
 .tiles
 {
 	width:250px;
+	height: 300px;
 	text-align:center;
 	background-color: #fff;
 	display:inline-block;
 	vertical-align: middle;
+	 margin-right: 50px;
 	padding:25px;
 }
 
