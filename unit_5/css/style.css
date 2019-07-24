@@ -192,10 +192,20 @@ img {
     	padding: 20px;
 }
 
+.tileSig
+{
+	font-family: 'Chelsea Market', cursive;
+	font-weight: 400;
+	font-size: 18px;
+	letter-spacing:2px;
+	color: #0076a3;
+	text-align: right;
+}
+
 .tiles
 {
 	width:250px;
-	height: 300px;
+	height: 200px;
 	text-align:center;
 	background-color: #fff;
 	display:inline-block;
