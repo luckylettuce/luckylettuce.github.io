@@ -90,14 +90,24 @@ nav {
     	padding: 20px;
 }
 
+nav ul li
+{
+	display:inline-block;
+	padding:0 15px;
+}
 nav li {
 	list-style-type: none;
 	display: inline-block;
 	font-weight:700;
 	letter-spacing: 2px;
+	padding: 10px; 
 
 }
 
+nav li:hover a, nav li:hover
+{
+	color:#FF8963;
+}
 
 article
 {
