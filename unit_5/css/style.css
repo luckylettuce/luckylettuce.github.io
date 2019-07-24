@@ -95,11 +95,12 @@ nav {
 
 
 nav ul li {
+	background-color: #fff;
 	list-style-type: none;
 	display: inline-block;
 	font-weight:700;
 	letter-spacing: 2px;
-	padding:0 15px; 
+	padding:15px; 
 
 }
 
@@ -195,7 +196,7 @@ img {
 {
 	width:250px;
 	text-align:left;
-	background-color: #000;
+	background-color: #fff;
 	display:inline-block;
 	vertical-align: top;
 	padding:0px 10px 0 0px;
