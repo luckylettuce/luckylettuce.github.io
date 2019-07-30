@@ -23,6 +23,7 @@ p {
 	font-size: 18px;
 	font-style: normal;
 	color: #000000;
+	line-height: 1.5;
 		}
 
 h1 {
@@ -250,12 +251,13 @@ img {
 .tiles
 {
 	width:250px;
-	height: 200px;
+	height: 150px;
 	text-align:center;
 	background-color: #fff;
 	display:inline-block;
 	vertical-align: middle;
-	 margin-right: 50px;
+	margin-right: 50px;
+	line-height: 1.5;
 	padding:25px;
 }
 
