@@ -273,21 +273,21 @@ img {
 {   
 	background-color: #FFE2B8;
    	border: 1px black solid;
-    	padding: 20px;
+    padding: 20px;
 }
 
 
 #favorite {
- 	padding: 5px;
-  	border-radius: 50%;
+ 	padding: 15px;
+  	border-radius: 20%;
 	border: 1px solid #28B463;
 }
 
 #wrapper {
 
 	background-color: #FFE2B8;
-    	border: 1px black solid;
-    	padding: 20px;
+    border: 1px black solid;
+    padding: 20px;
 }
 
 
@@ -301,6 +301,6 @@ hr {
 
 footer {
 	background-color: #FF957E;
-    	border: 1px black solid;
-    	padding: 20px;
+    border: 1px black solid;
+    padding: 20px;
 }
