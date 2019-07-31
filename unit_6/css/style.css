@@ -182,6 +182,7 @@ aside
     background-image: url('../images/final-home.png');
     margin: 5px;
     width: auto;
+	min-height: 400px;
     background-size: cover;
 }
 
