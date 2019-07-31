@@ -232,6 +232,7 @@ align-content: left;
 	height: 300px;
 	padding:20px;
 	margin: 0;
+	float: left;
 }
 
 #col1_logo {
