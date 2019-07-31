@@ -232,17 +232,21 @@ align-content: left;
 
 #top
 {   
-	background-color: #FFE2B8;
+background-color: #FFE2B8;
     border: 1px black solid;
     padding: 20px;
 }
 
-#middle
+#fav_wrap {   
+background-color: #28B463;
+border: 0px;
+padding: 30px;
+}
 
-{   
-	background-color: #FFE2B8;
-    border: 1px black solid;
-    padding: 20px;
+#fav_img_wrap{
+background-color: #FFF;
+border: 0px;
+padding: 20px;
 }
 
 #testimonials
