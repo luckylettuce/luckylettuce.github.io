@@ -55,6 +55,31 @@ h3 {
 	padding-bottom: 10px;
 }
 
+link {
+  display: none;
+}
+
+/* unvisited link */
+a:link {
+  color: #0076a3;
+}
+
+/* visited link */
+a:visited {
+  color: #28B463;
+}
+
+/* mouse over link */
+a:hover {
+  color: white;
+}
+
+/* selected link */
+a:active {
+  color: purple;
+}
+
+
 ul {
 	text-align: center;
 	list-style-type: disc;
