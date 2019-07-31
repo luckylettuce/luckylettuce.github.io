@@ -152,7 +152,7 @@ article
 aside
 {
 
-		background-color: #FFC675;
+	background-color: #FFC675;
     	border: 1px black solid;
     	padding: 20px;
 }
@@ -188,12 +188,11 @@ aside
 
 
 #sloganwrap {
-		background: #fff;
+	background: #fff;
     	margin: 25px;
-		opacity: 0.5;
     	width: 400px;
     	height: 100px;
-		padding: 20px;
+	padding: 20px;
 }
 
 #slogan {
@@ -294,10 +293,11 @@ align-content: left;
 }
 
 
-#favorite {
+img.favorite {
  	padding: 5px;
   	border-radius: 20%;
 	border: 1px solid #28B463;
+	margin-right: 20px;
 }
 
 #wrapper {
