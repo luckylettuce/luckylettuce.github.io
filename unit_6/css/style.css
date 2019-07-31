@@ -204,6 +204,15 @@ aside
 	color: #0076a3;
 }
 
+#slogan2 {
+	font-family: 'Chelsea Market', cursive;
+	font-weight: 600;
+	font-size: 30px;
+	letter-spacing:2px;
+	color: #000;
+	line-height: 1.5em;
+}
+
 .button {
 background-color: #0076a3;
 border: none;
