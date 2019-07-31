@@ -123,11 +123,6 @@ nav li:hover a, nav li:hover
     padding: 20px;
 }
 
-#right {
-    background-color: #E55B88;
-    border: 1px black solid;
-    padding: 20px;
-}
 
 #left {
     background-color: violet;
@@ -162,10 +157,6 @@ aside
     	padding: 20px;
 }
 
-img {
-  		padding: 2px;
-
-}
 
 .clearfix:after {
     visibility: hidden;
@@ -180,8 +171,8 @@ img {
 {
 
 	background-color: #FFE2B8;
-    	border: 1px black solid;
-    	padding: 20px;
+    border: 1px black solid;
+    padding: 20px;
 }
 
 
@@ -278,7 +269,7 @@ img {
 
 
 #favorite {
- 	padding: 15px;
+ 	padding: 5px;
   	border-radius: 20%;
 	border: 1px solid #28B463;
 }
