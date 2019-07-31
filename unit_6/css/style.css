@@ -374,12 +374,12 @@ hr {
 }
 
 footer {
-	height="15%";
+	height="12%";
 	width: auto;
 	vertical-align: bottom;
 background-color: #f1f1f1;
     border: none;
-    padding: 15px;
+    padding: 10px;
 }
 
 #logo_footer {
