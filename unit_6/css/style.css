@@ -250,10 +250,23 @@ padding: 20px;
 }
 
 #fav_img_wrap {
-width: 250px;
-background-color: #FFF;
-border: 0px;
-padding: 10px;
+	width:250px;
+	height: 250px;
+	text-align:center;
+	background-color: #fff;
+	display:inline-block;
+	vertical-align: middle;
+	margin-right: 50px;
+	line-height: 1.5;
+	padding:25px;
+}
+
+
+#favorite {
+ 	padding: 5px;
+  	border-radius: 20%;
+	border: 1px solid #28B463;
+	margin: 20px;
 }
 
 #testimonials
@@ -304,13 +317,6 @@ padding: 10px;
 }
 
 
-#favorite {
- 	padding: 5px;
-  	border-radius: 20%;
-	border: 1px solid #28B463;
-	margin: 20px;
-	float: left;
-}
 
 #wrapper {
 
