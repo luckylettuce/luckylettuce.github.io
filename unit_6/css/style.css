@@ -303,6 +303,7 @@ padding: 20px;
   	border-radius: 20%;
 	border: 1px solid #28B463;
 	margin: 20px;
+	float: left;
 }
 
 #wrapper {
