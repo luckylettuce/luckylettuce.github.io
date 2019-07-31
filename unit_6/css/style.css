@@ -140,8 +140,8 @@ nav li:hover a, nav li:hover
 
 #two_column {
     background-color: #fff;
-    border: 1px red solid;
-    padding: 20px;
+    border: none;
+    padding: 10px;
 }
 
 #left {
