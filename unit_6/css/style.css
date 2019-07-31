@@ -121,20 +121,20 @@ nav li:hover a, nav li:hover
 
 #left {
     background-color: #fff;
-    border: 1px black solid;
-    padding: 20px;
+    border: none;
+    padding: 15px;
     float: left;
     width: 30%;
-	height: 350px;
+height: 350px;
 }
 
 #right {
     background-color: #fff;
-    border: 1px black solid;
-    padding: 20px;
+    border: none;
+    padding: 15px;
     float: right;   
-    width: 62%;
-	height: 350px;
+    width: 70%;
+height: 350px;
 }
 
 article
