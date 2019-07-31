@@ -254,7 +254,7 @@ align-content: left;
 }
 
 .column {
-	width: 26%;
+	width: 27%;
 	height: 300px;
 	padding:10px;
 	margin: 0;
@@ -375,8 +375,8 @@ hr {
 
 footer {
 	height="15%";
-	width: 100%;
-	vertical-align: middle;
+	width: auto;
+	vertical-align: bottom;
 background-color: #e6e6e6;
     border: none;
     padding: 15px;
