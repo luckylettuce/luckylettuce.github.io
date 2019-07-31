@@ -382,9 +382,17 @@ background-color: #f1f1f1;
     padding: 15px;
 }
 
-#logo_footer
-
-{
+#logo_footer {
 width: 200px;
 padding: 10px;	
+}
+
+footer.nav {
+	font-family: 'Lato', san-serif;
+	list-style-type: none;
+	color: #0076a3;
+	display: inline-block;
+	font-weight:700;
+	letter-spacing: 2px;
+	padding:15px;
 }
