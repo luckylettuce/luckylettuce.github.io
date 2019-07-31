@@ -121,18 +121,12 @@ nav li:hover a, nav li:hover
 }
 
 #left {
-    background-color: #E582A2;
-    border: 1px black solid;
-    padding: 20px;
-}
-
-
-#left {
     background-color: violet;
     border: 1px black solid;
     padding: 20px;
     float: left;
     width: 30%;
+	height: 300px;
 }
 
 #right {
@@ -141,6 +135,7 @@ nav li:hover a, nav li:hover
     padding: 20px;
     float: right;   
     width: 62%;
+	height: 300px;
 }
 
 article
