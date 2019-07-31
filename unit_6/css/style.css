@@ -349,7 +349,9 @@ hr {
 }
 
 footer {
-	background-color: #e6e6e6;
+	height="150px";
+	content-align="center";
+background-color: #e6e6e6;
     border: none;
     padding: 20px;
 }
