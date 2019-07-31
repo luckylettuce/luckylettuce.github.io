@@ -387,7 +387,7 @@ width: 200px;
 padding: 10px;	
 }
 
-footer.nav {
+nav: footer {
 	font-family: 'Lato', san-serif;
 	list-style-type: none;
 	color: #0076a3;
@@ -397,7 +397,7 @@ footer.nav {
 	padding:15px;
 }
 
-a {
+a: footer {
 	display: block;
 	text-decoration: none;
 	padding: 15px;
