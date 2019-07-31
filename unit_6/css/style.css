@@ -121,21 +121,21 @@ nav li:hover a, nav li:hover
 }
 
 #left {
-    background-color: violet;
+    background-color: #fff;
     border: 1px black solid;
     padding: 20px;
     float: left;
     width: 30%;
-	height: 300px;
+	height: 350px;
 }
 
 #right {
-    background-color: pink;
+    background-color: #fff;
     border: 1px black solid;
     padding: 20px;
     float: right;   
     width: 62%;
-	height: 300px;
+	height: 350px;
 }
 
 article
