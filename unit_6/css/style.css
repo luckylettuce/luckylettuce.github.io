@@ -99,7 +99,7 @@ nav {
 nav ul li {
 	font-family: 'Chelsea Market', cursive;
 	list-style-type: none;
-	font-color: #0076a3;
+	color: #0076a3;
 	display: inline-block;
 	font-weight:700;
 	letter-spacing: 2px;
