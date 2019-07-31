@@ -261,7 +261,7 @@ background-color: #fff;
 #fav_wrap {  
 width: auto;
 min-height: 350px;
-background-color: #28B463;
+background-color: none;
 border: 0px;
 padding: 20px;
 }
@@ -270,7 +270,6 @@ padding: 20px;
 	width:300px;
 	height: 250px;
 	text-align:center;
-	background-color: #fff;
 	display:inline-block;
 	vertical-align: middle;
 	line-height: 1.5;
@@ -287,15 +286,15 @@ padding: 20px;
 #testimonials
 
 {   
-	background-color: #FFE2B8;
-    	border: 1px black solid;
+	background-color: #28B463;
+    	border: none;
     	padding: 20px;
 }
 
 #tileWrap
 {   
 	background-color: #FFE2B8;
-    border: 1px black solid;
+    border: none;
     padding: 20px;
 }
 
