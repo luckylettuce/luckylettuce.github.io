@@ -179,10 +179,9 @@ aside
 #hero 
 
 {
-    background-image: url('../images/home-feature.png');
+    background-image: url('../images/final-home.png');
     margin: 5px;
     width: auto;
-    min-height: 400px;
     background-size: cover;
 }
 
