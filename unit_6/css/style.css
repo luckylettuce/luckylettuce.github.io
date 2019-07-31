@@ -241,16 +241,18 @@ background-color: #FFE2B8;
     padding: 20px;
 }
 
-#fav_wrap {   
+#fav_wrap {  
+width: 1000px;
 background-color: #28B463;
 border: 0px;
-padding: 30px;
+padding: 20px;
 }
 
-#fav_img_wrap{
+#fav_img_wrap {
+width: 250px;
 background-color: #FFF;
 border: 0px;
-padding: 20px;
+padding: 10px;
 }
 
 #testimonials
