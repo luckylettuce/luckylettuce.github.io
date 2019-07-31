@@ -242,7 +242,8 @@ background-color: #FFE2B8;
 }
 
 #fav_wrap {  
-width: 1000px;
+width: auto;
+min-height: 350px;
 background-color: #28B463;
 border: 0px;
 padding: 20px;
