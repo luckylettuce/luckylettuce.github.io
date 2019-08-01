@@ -147,7 +147,7 @@ nav li:hover a, nav li:hover {
 #two_column {
     background-color: #fff;
     border: none;
-    padding: 10px;
+    padding: 20px;
 }
 
 #left {
@@ -211,8 +211,9 @@ padding: 20px;
 
 #sloganwrap {
 	background: none;
-  width: 400px;
+  	width: 400px;
 	padding-left: 20px;
+	text-align: left;
 }
 
 #slogan {
