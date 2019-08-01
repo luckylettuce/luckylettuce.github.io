@@ -270,6 +270,7 @@ aside {
 
 .fav_img {
 	float: left;
+	width: 23%;
 	margin: 2em;
 }
 
