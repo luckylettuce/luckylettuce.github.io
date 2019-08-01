@@ -276,7 +276,7 @@ aside {
 .fav_img {
 	width:  25%;
 	float: left;
-	padding: 2em;
+	padding: 25px;
 }
 
 #testimonials {   
@@ -292,9 +292,20 @@ aside {
 	background-color: none;
 	color: #fff;
   	border: none;
-	max-width: 1200px;
+	width: 1200px;
 }
 
+.tiles {
+	float: left;
+	color: #fff;
+	width: 33%;
+	text-align:center;
+	display:inline-block;
+	vertical-align: middle;
+	line-height: 1.5;
+	margin: 25px;
+	
+}
 .tileSig {
 	font-family: 'Chelsea Market', cursive;
 	font-weight: 400;
@@ -304,16 +315,7 @@ aside {
 	text-align: right;
 }
 
-.tiles {
-	float: left;
-	color: #fff;
-	text-align:center;
-	display:inline-block;
-	vertical-align: middle;
-	line-height: 1.5;
-	margin: 25px;
-	
-}
+
 
 #feature {   
 	background-color: #fff;
