@@ -274,7 +274,6 @@ aside {
 .fav_img {
 	width:  25%;
 	float: left;
-	padding: 25px;
 }
 
 #testimonials {   
@@ -300,10 +299,9 @@ aside {
 	text-align:center;
 	display:inline-block;
 	vertical-align: middle;
-	line-height: 1.5;
-	margin: 25px;
-	
+	line-height: 1.5;	
 }
+
 .tileSig {
 	font-family: 'Chelsea Market', cursive;
 	font-weight: 400;
@@ -312,8 +310,6 @@ aside {
 	color: #fff373;
 	text-align: right;
 }
-
-
 
 #feature {   
 	background-color: #fff;
@@ -388,4 +384,3 @@ footer {
   	background-color: #fec865;
   	color: #fff;
 }
-	
