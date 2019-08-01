@@ -319,6 +319,14 @@ hr {
 	background-color: #aa2562;
 }
 
+#bottom 
+{
+	border: none;	
+	background-image: url('../images/final-home.png');
+	min-height: 400px;
+    	background-size: cover;
+
+}
 #footerWrap	{
 	margin: 3em;
 }
