@@ -264,11 +264,10 @@ aside {
 }
 
 #fav_wrap {  
-	width: 1200px;
+	width: auto;
 	text-align:center;
 	display:inline-block;
-	vertical-align: middle;	
-	background-color: none;
+	background-color: #ffdd00;
 }
 
 .fav_img {
