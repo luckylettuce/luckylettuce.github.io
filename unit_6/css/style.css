@@ -179,7 +179,6 @@ aside {
 #herowrap {
 	background-color: #fff;
   	border: none;
-    	padding: 10px;
     	width: auto;
 }
 
@@ -187,8 +186,8 @@ aside {
     	background-image: url('../images/final-home.png');
     	margin: 5px;
 	min-height: 400px;
-	width: 1200px;
     	background-size: cover;
+	padding: 3em;
 }
 
 #sloganwrap {
