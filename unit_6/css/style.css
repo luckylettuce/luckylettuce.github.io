@@ -140,7 +140,7 @@ nav li:hover a, nav li:hover {
 }
 
 #left {
-    background-color: #fff;
+    background-color: #none;
     border: none;
     padding: 15px;
     float: left;
@@ -148,7 +148,7 @@ nav li:hover a, nav li:hover {
 }
 
 #right {
-    background-color: #fff;
+    background-color: #none;
     border: none;
     padding: 15px;
     float: right;   
@@ -156,14 +156,14 @@ nav li:hover a, nav li:hover {
 }
 
 article {
-	background-color: #E89C6C;
-   	border: 1px black solid;
+	background-color: none;
+   	border: none;
    	padding: 20px;
 }
 
 aside {
-	background-color: #FFC675;
-	border: 1px black solid;
+	background-color: none;
+	border: none;
 	padding: 20px;
 }
 
@@ -261,6 +261,7 @@ aside {
 
 #favorite {
 	background: none;
+	padding: 2em;
   
 }
 
@@ -271,12 +272,13 @@ aside {
 	vertical-align: middle;	
 	background-color: none;
 	border: 0px;
-	padding: 15px;
+	padding: 25px;
 }
 
 .fav_img {
 	width:  25%;
 	float: left;
+	padding-bottom: 10px;
 }
 
 #testimonials {   
@@ -303,7 +305,6 @@ aside {
 	letter-spacing:2px;
 	color: #fff373;
 	text-align: right;
-	padding-bottom: 10px;
 }
 
 .tiles {
@@ -319,9 +320,8 @@ aside {
 }
 
 #feature {   
-	background-color: #ffdd00;
-   	width: 1200px;
-	padding: 15px;
+	background-color: #fff;
+	padding: 25px;
 }
 
 hr {
