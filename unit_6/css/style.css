@@ -133,7 +133,6 @@ nav li:hover a, nav li:hover {
 }
 
 #two_column {
-	width: 1200px;
     	background-color: #fff;
     	border: none;
     	padding: 20px;
@@ -319,9 +318,10 @@ aside {
 	
 }
 
-#featureWrap {   
+#feature {   
 	background-color: #ffdd00;
    	width: 1200px;
+	padding: 15px;
 }
 
 hr {
