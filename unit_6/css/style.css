@@ -296,6 +296,7 @@ aside {
 	color: #fff;
   	border: none;
   	margin: 2em;
+	max-width: 1200px;
 }
 
 .tileSig {
@@ -321,9 +322,8 @@ aside {
 }
 
 #featureWrap {   
-	background-color: #FFE2B8;
-   	border: 1px black solid;
-    	padding: 20px;
+	background-color: #ffdd00;
+   	width: 1200px;
 }
 
 hr {
