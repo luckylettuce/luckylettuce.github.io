@@ -184,10 +184,8 @@ aside {
 
 #hero {
     	background-image: url('../images/final-home.png');
-    	margin: 5px;
 	min-height: 400px;
     	background-size: cover;
-	padding: 3em;
 }
 
 #sloganwrap {
@@ -278,7 +276,7 @@ aside {
 .fav_img {
 	width:  25%;
 	float: left;
-	padding-bottom: 10px;
+	padding: 2em;
 }
 
 #testimonials {   
@@ -308,7 +306,6 @@ aside {
 
 .tiles {
 	float: left;
-	width: 27%;
 	color: #fff;
 	text-align:center;
 	display:inline-block;
