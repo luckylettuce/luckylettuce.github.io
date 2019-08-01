@@ -295,10 +295,9 @@ aside {
 .tiles {
 	float: left;
 	color: #fff;
-	width: 33%;
+	width: 30%;
 	text-align:center;
-	display:inline-block;
-	vertical-align: middle;
+	margin: 20px 25px;
 	line-height: 1.5;	
 }
 
