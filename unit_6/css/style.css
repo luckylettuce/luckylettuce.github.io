@@ -300,17 +300,18 @@ min-height: 370px;
 background-color: none;
 border: 0px;
 padding: 10px;
+margin: 10px;
 }
 
 #fav_img_wrap {
-	width:300px;
+	width:275px;
 	height: 250px;
 	text-align:center;
 	display:inline-block;
 	vertical-align: middle;
 	line-height: 1.5;
 	padding:20px;
-	margin-right: 20px;
+	margin-right: 10px;
 }
 
 
