@@ -264,16 +264,15 @@ aside {
 }
 
 #fav_wrap {  
-	width: auto;
+	width: 1500px;
 	text-align:center;
 	display:inline-block;
 	background-color: #ffdd00;
 }
 
 .fav_img {
-	width:  25%;
 	float: left;
-	margin: 1em;
+	margin: 2em;
 }
 
 #testimonials {   
