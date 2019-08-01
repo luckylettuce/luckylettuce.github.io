@@ -281,14 +281,14 @@ aside {
   	border: none;
 	vertical-align: middle;	
 	color: #fff;
-	padding: 2em;
+	padding: 3em;
 }
 
 #tileWrap {   
 	background-color: none;
 	color: #fff;
   	border: none;
-	width: auto;
+	max-width: 1000px;
 }
 
 .tiles {
