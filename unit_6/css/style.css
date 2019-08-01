@@ -289,12 +289,13 @@ aside {
 	width: 100%;
   	border: none;
   	padding: 3em;
-	color: white;
+	color: #fff;
 }
 
 #tileWrap {   
 	width: 1200px;
 	background-color: none;
+	color: #fff;
   	border: none;
   	padding: 20px;
 }
@@ -336,18 +337,15 @@ hr {
 
 #footerWrap	{
 	width: 1200px;
-	height: 8%;
 	vertical-align: bottom;
 	background-color: #f1f1f1;
     	border: none;
 }
 
 footer {
-	width: 1200px;
 	vertical-align: bottom;
 	background-color: #f1f1f1;
     	border: none;
-    	margin: 10px;
 }
 
 
