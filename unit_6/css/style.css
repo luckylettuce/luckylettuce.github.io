@@ -276,21 +276,19 @@ aside {
 #testimonials {   
 	background-color: #28B463;
 	text-align:center;
-  	border: none;
-	vertical-align: middle;	
 	color: #fff;
-	padding: 3em;
-	
+	padding: 3em;	
 }
 
 #tileWrap {   
 	background-color: none;
 	color: #fff;
   	border: none;
-	width: 1200px;
+	width: 1500px;
 }
 
 .tiles {
+	width: 30%;
 	float: left;
 	color: #fff;
 	text-align:center;
