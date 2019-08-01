@@ -274,6 +274,7 @@ aside {
 .fav_img {
 	width:  25%;
 	float: left;
+	margin: 1em;
 }
 
 #testimonials {   
