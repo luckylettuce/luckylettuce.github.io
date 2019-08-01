@@ -276,15 +276,13 @@ aside {
 
 .fav_img {
 	width:  25%;
-	border-radius: 20%;
-	border: 1px solid #28B463;
 	float: left;
 }
 
 #testimonials {   
 	background-color: #28B463;
 	width: 100%;
-	text-align:left;
+	text-align:center;
   	border: none;
 	vertical-align: middle;	
 	color: #fff;
