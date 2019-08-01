@@ -385,12 +385,12 @@ hr {
 }
 
 footer {
-	height="12%";
+	height="10%";
 	width: auto;
 	vertical-align: bottom;
 	background-color: #f1f1f1;
     border: none;
-    padding: 10px;
+    margin: 10px;
 }
 
 #logo_footer {
@@ -418,10 +418,11 @@ footer {
 
 .vertical-menu a:hover {
   background-color: #28B463;
+  color: #fff;
 }
 
 .vertical-menu a.active {
-  background-color: #fff;
+  background-color: #fec865;
   color: white;
 }
 	
