@@ -372,7 +372,7 @@ padding: 10px;
 
 	background-color: #FFE2B8;
     border: none;
-    padding: 20px;
+    padding: 15px;
 }
 
 
@@ -385,8 +385,7 @@ hr {
 }
 
 footer {
-	height="10%";
-	width: auto;
+	width: 100%;
 	vertical-align: bottom;
 	background-color: #f1f1f1;
     border: none;
@@ -400,7 +399,7 @@ footer {
 
 .vertical-menu {
 
-	width: 200px;
+	width: 220px;
 }
 
 .vertical-menu a {
