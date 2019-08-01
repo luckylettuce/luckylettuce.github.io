@@ -398,7 +398,8 @@ footer {
 
 #logo_footer {
 	width: 200px;
-	padding: 10px;	
+	padding: 10px;
+	float: left;	
 }
 
 .vertical-menu {
