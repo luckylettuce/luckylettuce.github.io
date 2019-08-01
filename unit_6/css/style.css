@@ -284,18 +284,17 @@ aside {
 #testimonials {   
 	background-color: #28B463;
 	width: 100%;
-	text-align:center;
+	text-align:left;
   	border: none;
 	vertical-align: middle;	
 	color: #fff;
-	margin: 5em;
+	padding: 5em;
 }
 
 #tileWrap {   
 	background-color: none;
 	color: #fff;
   	border: none;
-  	margin: 2em;
 	max-width: 1200px;
 }
 
@@ -337,7 +336,7 @@ hr {
 #footerWrap	{
 	margin: 3em;
 	vertical-align: bottom;
-	background-color: #fff;
+	background-color: none;
     	border: none;
 }
 
