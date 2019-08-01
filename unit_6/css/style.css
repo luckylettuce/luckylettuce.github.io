@@ -145,7 +145,6 @@ nav li:hover a, nav li:hover {
     padding: 15px;
     float: left;
     width: 30%;
-	  height: 350px;
 }
 
 #right {
@@ -154,7 +153,6 @@ nav li:hover a, nav li:hover {
     padding: 15px;
     float: right;   
     width: 60%;
-	height: 350px;
 }
 
 article {
@@ -263,17 +261,17 @@ aside {
 }
 
 #favorite {
-  	text-align:center;
-	display:inline-block;
-	vertical-align: middle;	
+	background: none;
+  
 }
 
 #fav_wrap {  
 	width: 1200px;
+	text-align:center;
+	display:inline-block;
+	vertical-align: middle;	
 	background-color: none;
 	border: 0px;
-	padding: 10px;
-	margin: 10px;
 }
 
 .fav_img {
@@ -281,6 +279,7 @@ aside {
 	border-radius: 20%;
 	border: 1px solid #28B463;
 	padding: 3em;
+	float: left;
 }
 
 
