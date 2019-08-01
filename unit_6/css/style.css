@@ -285,13 +285,14 @@ aside {
 #testimonials {   
 	background-color: #28B463;
 	width: 100%;
+	text-align:center;
   	border: none;
+	vertical-align: middle;	
 	color: #fff;
 	margin: 5em;
 }
 
 #tileWrap {   
-	width: 1200px;
 	background-color: none;
 	color: #fff;
   	border: none;
