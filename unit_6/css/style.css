@@ -282,12 +282,14 @@ aside {
 	vertical-align: middle;	
 	color: #fff;
 	padding: 3em;
+	
 }
 
 #tileWrap {   
 	background-color: none;
 	color: #fff;
   	border: none;
+	width: 1200px;
 }
 
 .tiles {
