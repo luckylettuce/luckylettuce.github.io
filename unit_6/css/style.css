@@ -269,8 +269,6 @@ aside {
 	display:inline-block;
 	vertical-align: middle;	
 	background-color: none;
-	border: 0px;
-	padding: 25px;
 }
 
 .fav_img {
@@ -292,7 +290,7 @@ aside {
 	background-color: none;
 	color: #fff;
   	border: none;
-	width: 1200px;
+	width: auto;
 }
 
 .tiles {
