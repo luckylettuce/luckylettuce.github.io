@@ -225,7 +225,7 @@ aside
     margin: 25px;
     width: 400px;
     height: 100px;
-	padding: 20px;
+	text-align: left;
 }
 
 #slogan {
@@ -266,19 +266,18 @@ align-content: left;
 
 .column {
 	width: 27%;
-	height: 300px;
 	padding:10px;
 	margin: 0;
 	float: left;
 }
 
 #col1_logo {
-background-color: #none;	
+	background-color: #none;	
 }
 
 #col2_footer_nav
 {
-background-color: none;	
+	background-color: none;	
 }
 
 #col3_social {
@@ -348,7 +347,7 @@ margin: 10px;
 .tiles
 {
 	width:250px;
-	height: 150px;
+	height: 200px;
 	text-align:center;
 	background-color: #fff;
 	display:inline-block;
