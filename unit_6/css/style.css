@@ -397,20 +397,29 @@ width: 200px;
 padding: 10px;	
 }
 
-nav: footer {
+.vertical-menu {
+
+	width: 200px;
+}
+
+.vertical-menu a {
 	font-family: 'Lato', san-serif;
 	list-style-type: none;
 	color: #0076a3;
-	display: inline-block;
-	font-weight:700;
+	text-decoration: none;
+	display: block;
+	font-weight:400;
 	letter-spacing: 2px;
 	padding:15px;
 }
 
-a: footer {
-	display: block;
-	text-decoration: none;
-	padding: 15px;
-	width:200px;
+
+.vertical-menu a:hover {
+  background-color: #ccc;
+}
+
+.vertical-menu a.active {
+  background-color: #28B463;
+  color: white;
 }
 	
