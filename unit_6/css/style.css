@@ -405,22 +405,23 @@ padding: 10px;
 
 .vertical-menu a {
 	font-family: 'Lato', san-serif;
+	font-size: 18px;
 	list-style-type: none;
 	color: #0076a3;
 	text-decoration: none;
 	display: block;
-	font-weight:400;
+	font-weight:500;
 	letter-spacing: 2px;
 	padding:15px;
 }
 
 
 .vertical-menu a:hover {
-  background-color: #ccc;
+  background-color: #28B463;
 }
 
 .vertical-menu a.active {
-  background-color: #28B463;
+  background-color: #fff;
   color: white;
 }
 	
