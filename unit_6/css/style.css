@@ -163,6 +163,7 @@ article {
 aside {
 	background-color: none;
 	border: none;
+	align: right;
 }
 
 .clearfix:after {
