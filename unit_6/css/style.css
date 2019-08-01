@@ -396,6 +396,19 @@ footer {
 	padding: 10px;	
 }
 
+#aboutFooter
+
+{
+	font-family: 'Raleway', sans-serif;
+	font-weight: 400;
+	font-size: 14px;
+	font-style: normal;
+	color: #000000;
+	line-height: 1.25;
+		
+		}
+
+
 .vertical-menu {
 
 	width: 220px;
