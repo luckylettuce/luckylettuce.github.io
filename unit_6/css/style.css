@@ -335,15 +335,12 @@ hr {
 
 #footerWrap	{
 	margin: 3em;
-	vertical-align: bottom;
-	background-color: none;
-    	border: none;
 }
 
 footer {
 	vertical-align: bottom;
 	background-color: #f1f1f1;
-    	border: none;
+ 	padding: 2em;
 }
 
 
