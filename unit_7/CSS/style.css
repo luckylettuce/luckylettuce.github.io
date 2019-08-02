@@ -166,7 +166,7 @@ nav li:hover a, nav li:hover {
  	text-transform: uppercase;
  	font-family: 'Chelsea Market', cursive;
  	text-align: center;
-	display: inline-block
+	display: inline-block;
  	font-size: 5em;
     	border: none;
     	padding: 25px 15px;
