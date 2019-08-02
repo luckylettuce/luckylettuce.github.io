@@ -114,7 +114,7 @@ li {
 
 nav {
     border: none;
-    padding: 20px;
+    padding: 2em;
 }
 
 nav ul li {
@@ -275,6 +275,7 @@ aside {
 	background-color: #28B463;
 	text-align:center;
 	color: #fff;
+	padding: 2em;
 }
 
 #testimonials h2
