@@ -8,8 +8,13 @@ header  {
 	padding: 20px;
 }
 
+#logoheader 
+{
+	width: 200px;
+	align-content: left;
+}
+
 body {
-	text-align: center;
   	color: #000;
 	font-family: 'Raleway', sans-serif;
 }
@@ -315,8 +320,7 @@ hr {
 
 #bottom {
 	border: none;	
-	background-image: url('../images/salad2.jpg');
-	min-height: 400px;
+	background-image: url('../images/salad-footer.png');
     background-size: cover;
 
 }
