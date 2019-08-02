@@ -88,7 +88,6 @@ ul {
 
 li {
   	font-color: #000;
- 	font-family: 'Lato', sans-serif;
   	font-size: 20px;
  	font-weight:500;
 }
@@ -151,6 +150,29 @@ nav li:hover a, nav li:hover {
     padding: 15px;
     float: right;   
     width: 50%;
+}
+
+#favleft {
+
+	background-color: none;
+    border: none;
+    padding: 15px;
+    float: left;
+    width: 60%;
+}
+
+#favright {
+ 	background-color: #aa2562;
+ 	color: #fff;
+ 	text-transform: uppercase;
+ 	font-family: 'Chelsea Market', cursive;
+ 	text-align: center;
+ 	font-size: 5em;
+    border: none;
+    padding: 15px;
+    float: right;   
+    width: 25%;
+
 }
 
 article {
