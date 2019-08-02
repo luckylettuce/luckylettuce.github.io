@@ -11,7 +11,7 @@ header  {
 #logoheader 
 {
 	width: 200px;
-	align-content: left;
+	align-self: left;
 }
 
 body {
@@ -106,7 +106,6 @@ li {
 #navWrap {	
 	font-family: 'Chelsea Market', cursive;
 	font-size: 20px;
-	width: 100%;
 	color: #0076a3;
 	text-align: center;
 	background-color: #fff;
@@ -277,7 +276,6 @@ aside {
 	background-color: #28B463;
 	text-align:center;
 	color: #fff;
-	padding: 3em;	
 }
 
 #tileWrap {   
