@@ -10,8 +10,8 @@ header  {
 
 #logoheader {
 
-	width: 200px;
-	align-self: left;
+	width: 300px;
+	float: left;
 }
 
 body {
