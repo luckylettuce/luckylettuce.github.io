@@ -322,9 +322,9 @@ hr {
 	background-color: #aa2562;
 }
 
-#bottom {
-	border: none;	
+#bottom {	
 	background-image: url('../images/salad-footer.png');
+	height:300px;
     background-size: cover;
 
 }
