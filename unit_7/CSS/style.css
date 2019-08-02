@@ -364,6 +364,12 @@ margin: 1em;
 
 }
 
+.vertical-menu li {
+
+	font-family: 'Chelsea Market', cursive;
+	font-size: 20px;
+}
+
 .vertical-menu {
   	font-family: 'Chelsea Market', cursive;
 	font-size: 20px;
