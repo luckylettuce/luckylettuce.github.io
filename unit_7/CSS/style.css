@@ -153,12 +153,11 @@ nav li:hover a, nav li:hover {
 }
 
 #favleft {
-
 	background-color: none;
-    border: none;
-    padding: 15px;
-    float: left;
-    width: 60%;
+    	border: none;
+    	padding: 15px;
+    	float: left;
+    	width: 50%;
 }
 
 #favright {
@@ -167,11 +166,12 @@ nav li:hover a, nav li:hover {
  	text-transform: uppercase;
  	font-family: 'Chelsea Market', cursive;
  	text-align: center;
+	display: inline-block
  	font-size: 5em;
     	border: none;
     	padding: 25px 15px;
     	float: right;  
-	height: 400px;
+	height: 600px;
     	width: 25%;
 	margin-top: 50px;
 
@@ -179,11 +179,12 @@ nav li:hover a, nav li:hover {
 
 #fav_top {
 	float:left;
-
+	background-color: #f1f1f1;
 }
 
 #fav_bottom {
 	float: left;
+	background-color: #f1f1f1;
 }
 
 article {
