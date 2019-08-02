@@ -102,11 +102,11 @@ li {
 
 #navWrap {	
 	font-family: 'Chelsea Market', cursive;
-	font-size:20px;
+	font-size: 20px;
 	width: 100%;
-	color:#0076a3;
-	text-align:center;
-	background-color:#fff;
+	color: #0076a3;
+	text-align: center;
+	background-color: #fff;
 	font-weight: bold;
 	display:inline-block;
 	
@@ -162,7 +162,6 @@ article {
 aside {
 	background-color: none;
 	border: none;
-	align: right;
 }
 
 .clearfix:after {
@@ -175,8 +174,8 @@ aside {
 }
 
 #herowrap {
-	background-color: #fff;
-  	border: none;
+		background-color: #fff;
+  		border: none;
     	width: auto;
 }
 
@@ -238,7 +237,7 @@ aside {
 }
 
 #col1_logo {
-	background-color: #none;	
+	background-color: none;	
 }
 
 #col2_footer_nav {
@@ -246,7 +245,7 @@ aside {
 }
 
 #col3_social {
-	background-color: #none;
+	background-color: none;
 }
 
 #top {   
