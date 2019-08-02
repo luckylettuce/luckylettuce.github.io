@@ -168,11 +168,22 @@ nav li:hover a, nav li:hover {
  	font-family: 'Chelsea Market', cursive;
  	text-align: center;
  	font-size: 5em;
-    border: none;
-    padding: 15px;
-    float: right;   
-    width: 25%;
+    	border: none;
+    	padding: 25px 15px;
+    	float: right;  
+	height: 400px;
+    	width: 25%;
+	margin-top: 50px;
 
+}
+
+#fav_top {
+	float:left;
+
+}
+
+#fav_bottom {
+	float: left;
 }
 
 article {
