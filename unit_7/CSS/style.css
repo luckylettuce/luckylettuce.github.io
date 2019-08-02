@@ -278,6 +278,12 @@ aside {
 	color: #fff;
 }
 
+#testimonials h2
+
+{
+	color: #fff;
+}
+
 #tileWrap {   
 	background-color: none;
 	color: #fff;
@@ -286,7 +292,7 @@ aside {
 }
 
 .tiles {
-	width: 30%;
+	width: 26%;
 	float: left;
 	color: #fff;
 	text-align:center;
