@@ -135,6 +135,7 @@ nav li:hover a, nav li:hover {
     	background-color: #fff;
     	border: none;
     	padding: 20px;
+    	text-align: center;
 }
 
 #left {
@@ -350,7 +351,7 @@ aside {
 
 #feature {   
 	background-color: #fff;
-	width: 1200px;
+	width: auto;
 }
 
 hr {
