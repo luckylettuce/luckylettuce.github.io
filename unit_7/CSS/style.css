@@ -155,11 +155,11 @@ nav li:hover a, nav li:hover {
 
 #favleft {
 	background-color: none;
-    	border: none;
-    	padding: 15px;
-    	float: left;
-    	width: 65%;
-    	display: inline-block;
+    border: none;
+    padding: 15px;
+    float: left;
+    width: 65%;
+    display: inline-block;
 }
 
 #favright {
@@ -170,11 +170,11 @@ nav li:hover a, nav li:hover {
  	text-align: center;
 	display: inline-block;
  	font-size: 5em;
-    	border: none;
-    	padding: 25px 15px;
-    	float: right;  
+    border: none;
+    padding: 25px 15px;
+    float: right;  
 	height: 100%;
-    	width: 25%;
+    width: 25%;
 	margin-top: 50px;
 
 }
@@ -182,11 +182,13 @@ nav li:hover a, nav li:hover {
 #fav_top {
 	float:left;
 	background-color: #f1f1f1;
+	width:700px;
 }
 
 #fav_bottom {
 	float: left;
 	background-color: #f1f1f1;
+	width:700px;
 }
 
 article {
@@ -310,7 +312,7 @@ aside {
 
 #testimonials {   
 	background-color: #28B463;
-	text-align:center;
+	text-align: center;
 	color: #fff;
 	padding: 2em;
 }
@@ -325,8 +327,7 @@ aside {
 	background-color: none;
 	color: #fff;
   	border: none;
-	width: 1200px;
-	display: inline-block;
+  	display: inline-block;
 }
 
 .tiles {
