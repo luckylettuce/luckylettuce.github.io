@@ -159,6 +159,7 @@ nav li:hover a, nav li:hover {
     	padding: 15px;
     	float: left;
     	width: 65%;
+    	display: inline-block;
 }
 
 #favright {
@@ -291,12 +292,13 @@ aside {
 #favorite {
 	background: none;
 	padding: 2em;
+	text-align: center;
   
 }
 
 #fav_wrap {  
 	width: 1200px;
-	text-align:center;
+	text-align: center;
 	display:inline-block;
 	background-color: #ffdd00;
 }
@@ -324,6 +326,7 @@ aside {
 	color: #fff;
   	border: none;
 	width: 1200px;
+	display: inline-block;
 }
 
 .tiles {
