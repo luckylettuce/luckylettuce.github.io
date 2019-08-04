@@ -159,7 +159,7 @@ nav li:hover a, nav li:hover {
     border: none;
     padding: 15px;
     float: left;
-    width: 65%;
+    width: 55%;
     display: inline-block;
 }
 
@@ -172,10 +172,10 @@ nav li:hover a, nav li:hover {
 	display: inline-block;
  	font-size: 5em;
     border: none;
-    padding: 25px 15px;
+    padding: 2em 25px;
     float: right;  
 	height: 100%;
-    width: 25%;
+    width: 30%;
 	margin-top: 50px;
 
 }
