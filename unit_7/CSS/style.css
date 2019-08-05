@@ -156,7 +156,7 @@ nav li:hover a, nav li:hover {
 
 #favleft {
 	background-color: none;
-    border: none;
+    border: 1px black solid;
     padding: 15px;
     float: left;
     width: 55%;
@@ -171,7 +171,7 @@ nav li:hover a, nav li:hover {
  	text-align: center;
 	display: inline-block;
  	font-size: 5em;
-    border: none;
+    border: 1px black solid;
     padding: 2em 25px;
     float: right;  
 	height: 100%;
@@ -184,22 +184,24 @@ nav li:hover a, nav li:hover {
 	float:left;
 	background-color: #f1f1f1;
 	width:700px;
+	border: 1px black solid;
 }
 
 #fav_bottom {
 	float: left;
 	background-color: #f1f1f1;
 	width:700px;
+	border: 1px black solid;
 }
 
 article {
 	background-color: none;
-   	border: none;
+   	border: 1px black solid;
 }
 
 aside {
 	background-color: none;
-	border: none;
+	border: 1px black solid;
 }
 
 .clearfix:after {
