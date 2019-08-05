@@ -154,6 +154,34 @@ nav li:hover a, nav li:hover {
     width: 50%;
 }
 
+#favorite {
+	background: none;
+	padding: 2em;
+	text-align: center;
+	border: 1px blue solid;
+  
+}
+
+#fav_wrap {  
+	
+	text-align: center;
+	display:inline-block;
+	background-color: #ffdd00;
+	border: 1px red solid;
+}
+
+.fav_img {
+	float: left;
+	margin: 1em;
+}
+
+#callout {
+	float: right;
+	background-color: #aa2562;
+ 	color: #fff;
+	width: 35%;
+}
+
 #favleft {
 	background-color: none;
     border: 1px black solid;
@@ -174,7 +202,6 @@ nav li:hover a, nav li:hover {
     border: 1px yellow solid;
     padding: 2em 25px;
     float: right;  
-    width: 30%;
 
 }
 
@@ -292,26 +319,6 @@ aside {
   	padding: 20px;
 }
 
-#favorite {
-	background: none;
-	padding: 2em;
-	text-align: center;
-	border: 1px blue solid;
-  
-}
-
-#fav_wrap {  
-	
-	text-align: center;
-	display:inline-block;
-	background-color: #ffdd00;
-	border: 1px red solid;
-}
-
-.fav_img {
-	float: left;
-	margin: 1em;
-}
 
 #testimonials {   
 	background-color: #28B463;
