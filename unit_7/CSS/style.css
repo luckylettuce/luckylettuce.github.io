@@ -298,6 +298,7 @@ aside {
 	background: none;
 	padding: 2em;
 	text-align: center;
+	border: 1px blue solid;
   
 }
 
@@ -306,6 +307,7 @@ aside {
 	text-align: center;
 	display:inline-block;
 	background-color: #ffdd00;
+	border: 1px red solid;
 }
 
 .fav_img {
