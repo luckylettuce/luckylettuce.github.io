@@ -208,14 +208,14 @@ nav li:hover a, nav li:hover {
 #fav_top {
 	float:left;
 	background-color: #f1f1f1;
-	width:700px;
+	width:600px;
 	border: 1px black solid;
 }
 
 #fav_bottom {
 	float: left;
 	background-color: #f1f1f1;
-	width:700px;
+	width:600px;
 	border: 1px black solid;
 }
 
