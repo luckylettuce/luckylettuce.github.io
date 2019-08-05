@@ -179,7 +179,6 @@ nav li:hover a, nav li:hover {
 	float: right;
 	background-color: #aa2562;
  	color: #fff;
-	width: 35%;
 }
 
 #favleft {
@@ -199,10 +198,8 @@ nav li:hover a, nav li:hover {
  	text-align: center;
 	display: inline-block;
  	font-size: 5em;
-    border: 1px yellow solid;
-    padding: 2em 25px;
-    float: right;  
-
+    	padding: 2em 25px;
+    
 }
 
 #fav_top {
