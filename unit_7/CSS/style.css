@@ -171,12 +171,10 @@ nav li:hover a, nav li:hover {
  	text-align: center;
 	display: inline-block;
  	font-size: 5em;
-    border: 1px black solid;
+    border: 1px yellow solid;
     padding: 2em 25px;
     float: right;  
-	height: 100%;
     width: 30%;
-	margin-top: 50px;
 
 }
 
@@ -296,6 +294,7 @@ aside {
 
 #favorite {
 	background: none;
+	width: 1200px;
 	padding: 2em;
 	text-align: center;
 	border: 1px blue solid;
@@ -303,7 +302,7 @@ aside {
 }
 
 #fav_wrap {  
-	width: 1200px;
+	
 	text-align: center;
 	display:inline-block;
 	background-color: #ffdd00;
