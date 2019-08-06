@@ -183,10 +183,11 @@ nav li:hover a, nav li:hover {
 }
 
 #callout {
-	float: right;
 	background-color: #aa2562;
  	color: #fff;
 }
+
+
 
 #favleft {
 	background-color: #fff;
