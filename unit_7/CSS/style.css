@@ -170,10 +170,9 @@ nav li:hover a, nav li:hover {
   
 }
 
-#fav_wrap {  
+#fav_Wrap {  
 	
 	text-align: center;
-	display:inline-block;
 	background-color: #ffdd00;
 	border: 1px red solid;
 }
