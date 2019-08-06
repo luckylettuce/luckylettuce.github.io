@@ -166,15 +166,15 @@ nav li:hover a, nav li:hover {
 	background: none;
 	padding: 2em;
 	text-align: center;
-	border: 1px blue solid;
+	border: none;
   
 }
 
 #fav_Wrap {  
 	
 	text-align: center;
-	background-color: none;
-	border: 1px red solid;
+	background-color: #aa2562;
+	border: none;
 }
 
 .fav_img {
@@ -189,10 +189,9 @@ nav li:hover a, nav li:hover {
 }
 
 #favleft {
-	background-color: none;
-    border: 1px black solid;
-    padding: 15px;
-    float: left;
+	background-color: #fff;
+    	padding: 15px;
+    	float: left;
 }
 
 #favright {
@@ -202,8 +201,8 @@ nav li:hover a, nav li:hover {
  	font-family: 'Chelsea Market', cursive;
  	text-align: center;
  	font-size: 5em;
-    padding: 2em 25px;
-    float: right;
+    	padding: 2em 25px;
+    	float: right;
     
 }
 
@@ -217,14 +216,12 @@ nav li:hover a, nav li:hover {
 	float:left;
 	background-color: #f1f1f1;
 	width:600px;
-	border: 1px black solid;
 }
 
 #fav_bottom {
 	float: left;
 	background-color: #f1f1f1;
-	width:600px;
-	border: 1px black solid;
+	width:600px;	
 }
 
 article {
