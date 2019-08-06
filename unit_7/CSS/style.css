@@ -199,6 +199,7 @@ nav li:hover a, nav li:hover {
 	background-color: #fff;
     	padding: 15px;
     	float: left;
+	width: 55%;
 }
 
 #favright {
@@ -209,6 +210,7 @@ nav li:hover a, nav li:hover {
  	text-align: center;
  	font-size: 5em;
     	padding: 2em 25px;
+	width: 35%;
     	
     
 }
@@ -221,13 +223,11 @@ nav li:hover a, nav li:hover {
 #fav_top {
 	float:left;
 	background-color: #f1f1f1;
-	width:600px;
 }
 
 #fav_bottom {
 	float: left;
-	background-color: #f1f1f1;
-	width:600px;	
+	background-color: #f1f1f1;	
 }
 
 article {
