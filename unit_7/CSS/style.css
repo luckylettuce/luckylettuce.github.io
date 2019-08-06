@@ -187,7 +187,14 @@ nav li:hover a, nav li:hover {
  	color: #fff;
 }
 
-
+#callout h2 {
+	font-family: 'Chelsea Market', cursive;
+	font-size: 28px;
+	font-weight:700;
+	letter-spacing: 3px;
+	color: #FFF;
+	padding-bottom: 10px;
+}
 
 #favleft {
 	background-color: #fff;
