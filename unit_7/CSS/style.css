@@ -216,6 +216,7 @@ nav li:hover a, nav li:hover {
 
 #favRightWrap {
 	background color: #aa2562;
+	float: right;
 }
 
 #fav_top {
