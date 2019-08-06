@@ -167,7 +167,6 @@ nav li:hover a, nav li:hover {
 	padding: 2em;
 	text-align: center;
 	border: 1px blue solid;
-	max-width: 1200px;
   
 }
 
@@ -206,6 +205,12 @@ nav li:hover a, nav li:hover {
     padding: 2em 25px;
     float: right;
     
+}
+
+#favRightWrap {
+	float: right;
+	background color: #aa2562;
+
 }
 
 #fav_top {
