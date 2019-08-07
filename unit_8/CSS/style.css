@@ -25,11 +25,11 @@ header  {
 /* Style the search box inside the navigation bar */
 
 nav input[type=text] {
-  float: right;
-  border: 1px gray solid;
-  margin-top: 8px;
-  margin-right: 16px;
-  font-size: 20px;
+  	float: right;
+  	border: 1px gray solid;
+  	margin-top: 8px;
+  	margin-right: 16px;
+  	font-size: 20px;
 }
 
 body {
@@ -131,8 +131,8 @@ li {
 }
 
 nav {
-    border: none;
-    padding: 1em;
+    	border: none;
+    	padding: 1em;
 }
 
 nav ul li {
@@ -157,18 +157,18 @@ nav li:hover a, nav li:hover {
 }
 
 #left {
-    background-color: none;
-    border: none;
-    padding: 15px;
-    float: left;
+    	background-color: none;
+    	border: none;
+    	padding: 15px;
+    	float: left;
 }
 
 #right {
-    background-color: none;
-    border: none;
-    padding: 15px;
-    float: right;   
-    width: 50%;
+    	background-color: none;
+    	border: none;
+    	padding: 15px;
+    	float: right;   
+    	width: 50%;
 }
 
 #favorite {
@@ -218,7 +218,7 @@ nav li:hover a, nav li:hover {
  	font-family: 'Chelsea Market', cursive;
  	text-align: center;
  	font-size: 5em;
-    	padding: 2em 25px;
+    	padding: 2em 15px;
 }
 
 #favRightWrap {
@@ -256,14 +256,14 @@ aside {
 }
 
 #herowrap {
-		background-color: #fff;
-  		border: none;
+	background-color: #fff;
+  	border: none;
     	width: auto;
 }
 
 #hero {
     	background-image: url('../images/final-home.png');
-		min-height: 400px;
+	min-height: 400px;
     	background-size: cover;
 }
 
@@ -391,7 +391,7 @@ hr {
 #bottom {	
 	background-image: url('../images/salad-footer.png');
 	height:250px;
-    background-size: cover;
+    	background-size: cover;
 
 }
 
@@ -425,8 +425,8 @@ footer {
 
 #footer_social {
 
-width: 55px;
-margin: 1em;
+	width: 55px;
+	margin: 1em;
 
 }
 
