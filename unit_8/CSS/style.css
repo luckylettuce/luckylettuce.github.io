@@ -182,7 +182,7 @@ nav li:hover a, nav li:hover {
 #fav_Wrap {  
 	
 	text-align: center;
-	background-color: none;
+	background-color: #fff;
 	border: none;
 }
 
@@ -193,7 +193,7 @@ nav li:hover a, nav li:hover {
 
 #callout {
 	background-color: #aa2562;
- 	color: #fff;
+ 	padding: 1em;
 }
 
 #callout h2 {
