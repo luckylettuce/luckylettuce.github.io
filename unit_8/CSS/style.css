@@ -25,11 +25,11 @@ header  {
 /* Style the search box inside the navigation bar */
 .nav input[type=text] {
   float: right;
-  padding: 6px;
+  padding: 6px 6px 6px 50px;
   border: none;
   margin-top: 8px;
   margin-right: 16px;
-  font-size: 20px;
+  font-size: 50px;
 }
 
 body {
