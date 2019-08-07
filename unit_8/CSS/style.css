@@ -26,8 +26,7 @@ header  {
 
 nav input[type=text] {
   float: right;
-  padding: 6px 6px 6px 10px;
-  border: none;
+  border: 1px gray solid;
   margin-top: 8px;
   margin-right: 16px;
   font-size: 20px;
