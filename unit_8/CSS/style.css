@@ -2,6 +2,14 @@
 @import url('https://fonts.googleapis.com/css?family=Raleway|Roboto+Slab:700|Roboto:500&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Chelsea+Market&display=swap');
 
+
+#wrapper {
+
+	background-color: #fff;
+	max-width: 1900px;
+	margin: 0 auto;
+}
+
 header  {   
 	background-color: #f1f1f1;
 	border: none;
@@ -12,6 +20,16 @@ header  {
 
 	width: 300px;
 	float: left;
+}
+
+/* Style the search box inside the navigation bar */
+.nav input[type=text] {
+  float: right;
+  padding: 6px;
+  border: none;
+  margin-top: 8px;
+  margin-right: 16px;
+  font-size: 17px;
 }
 
 body {
@@ -114,7 +132,7 @@ li {
 
 nav {
     border: none;
-    padding: 2em;
+    padding: 1em;
 }
 
 nav ul li {
@@ -143,7 +161,6 @@ nav li:hover a, nav li:hover {
     border: none;
     padding: 15px;
     float: left;
-    width: 30%;
 }
 
 #right {
@@ -154,13 +171,44 @@ nav li:hover a, nav li:hover {
     width: 50%;
 }
 
-#favleft {
+#favorite {
+	background: none;
+	padding: 1em 0;
+	text-align: center;
+	border: none;
+  
+}
+
+#fav_Wrap {  
+	
+	text-align: center;
 	background-color: none;
-    border: none;
-    padding: 15px;
-    float: left;
-    width: 55%;
-    display: inline-block;
+	border: none;
+}
+
+.fav_img {
+	float: left;
+	margin: 1em;
+}
+
+#callout {
+	background-color: #aa2562;
+ 	color: #fff;
+}
+
+#callout h2 {
+	font-family: 'Chelsea Market', cursive;
+	font-size: 28px;
+	font-weight:700;
+	letter-spacing: 3px;
+	color: #FFF;
+	padding-bottom: 10px;
+}
+
+#favleft {
+	background-color: #fff;
+    	padding: 15px;
+    	float: left;
 }
 
 #favright {
@@ -169,37 +217,33 @@ nav li:hover a, nav li:hover {
  	text-transform: uppercase;
  	font-family: 'Chelsea Market', cursive;
  	text-align: center;
-	display: inline-block;
  	font-size: 5em;
-    border: none;
-    padding: 2em 25px;
-    float: right;  
-	height: 100%;
-    width: 30%;
-	margin-top: 50px;
+    	padding: 2em 25px;
+}
 
+#favRightWrap {
+	background color: #aa2562;
+	float: right;
 }
 
 #fav_top {
 	float:left;
 	background-color: #f1f1f1;
-	width:700px;
 }
 
 #fav_bottom {
 	float: left;
-	background-color: #f1f1f1;
-	width:700px;
+	background-color: #f1f1f1;	
 }
 
 article {
 	background-color: none;
-   	border: none;
+   	border: 1px black solid;
 }
 
 aside {
 	background-color: none;
-	border: none;
+	border: 1px black solid;
 }
 
 .clearfix:after {
@@ -292,24 +336,6 @@ aside {
   	padding: 20px;
 }
 
-#favorite {
-	background: none;
-	padding: 2em;
-	text-align: center;
-  
-}
-
-#fav_wrap {  
-	width: 1200px;
-	text-align: center;
-	display:inline-block;
-	background-color: #ffdd00;
-}
-
-.fav_img {
-	float: left;
-	margin: 1em;
-}
 
 #testimonials {   
 	background-color: #28B463;

@@ -8,6 +8,7 @@
 </head>
 
 <body>
+  <div id="wrapper">
   <header>
       <div id="navWrap"> 
         <nav>
@@ -18,6 +19,7 @@
                 <li>Shop</li>
                 <li>Contact Us</li>
               </ul>
+                <input type="text" placeholder="Search..">
           </nav>
         </div>
 </header>
@@ -33,48 +35,47 @@
     </div>
 </div>
    
-         
-<section id="favorite" class="clearfix">
-
-  <div id="fav_Wrap">
-    <article id="favleft">
-      <h2>Our Personal Favorites</h2>
-            <p>The spices to which we romaine true.<p>
-            <br>
-     <div class="fav_top">
-          <div class="fav_img">
-              <a href="#"><img src="images/creamy.png" alt="Creamy Dressings"></a>
-               <h3>Creamy</h3>
-          </div>
-            
-          <div class="fav_img">
-              <a href="#"><img src="images/low-salt.png" alt="Low-Salt Dressings"></a>
-                <h3>Low-Salt</h3>
-          </div>
-     </div>
+   <section id="favorite" class="clearfix">
+    
+    <div id="fav_Wrap" class="clearfix">
      
-     <div class="fav_bottom">
-          <div class="fav_img"> 
+     <div id="favleft">
+      <h2>Our Personal Favorites</h2>
+      <p>The spices to which we romaine true.<p><br>
+      
+      <div class="fav_top">
+       
+       <div class="fav_img">
+        <a href="#"><img src="images/creamy.png" alt="Creamy Dressings"></a>
+          <h3>Creamy</h3>
+       </div>
+            
+      <div class="fav_img">
+         <a href="#"><img src="images/low-salt.png" alt="Low-Salt Dressings"></a>
+           <h3>Low-Salt</h3>
+     </div>
+
+      <div class="fav_img"> 
              <a href="#"><img src="images/sweet.png" alt="Sweet Dressings"></a>
             <h3>Sweet</h3>
-          </div>
-            
-           <div class="fav_img">
-              <a href="#"><img src="images/build-own.png" alt="Build Your Own Spice Kit"></a>
-             <h3>Build Your Own Mix</h3>
-          </div>
+          </div> 
      </div>
-        </article>
-
-        <aside id="favright">
-
-          Turnip the Beet!
-
-        </aside>
+      
   </div>
+     
+   <div id="favRightWrap">
+       <div id="favright">
+         <div id="callout"> 
+          Turnip the Beet!
+         </div>
+        <h2>Build Your Own Mix</h2>
+        <p>It's a problem that needs addressing.</p>
+        
+        <p><a href="#" class="button">Try It!</a></p>
+       </div>
+      </div>
+     
 </section>
-
-
          
    <section id="testimonials" class="clearfix">
       <div id="tileWrap">
@@ -145,5 +146,6 @@
   </div>
        
 </footer>
+</div>
  </body>
 </html>
