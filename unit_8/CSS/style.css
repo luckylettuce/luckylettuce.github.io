@@ -67,7 +67,6 @@ h2 {
 	font-weight:700;
 	letter-spacing: 3px;
 	color: #28B463;
-	padding-bottom: .5em;
 }
 
 h3 {	
@@ -402,7 +401,7 @@ aside {
 	background-color: #28B463;
 	text-align: center;
 	color: #fff;
-	padding: 2em;
+	padding: 1em;
 }
 
 #testimonials h2
