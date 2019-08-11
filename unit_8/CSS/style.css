@@ -257,8 +257,8 @@ nav li:hover a, nav li:hover {
  	font-family: 'Chelsea Market', cursive;
  	text-align: center;
  	font-size: 4em;
-    padding: 1.5em 1em;
-    margin-top: 1.25em;
+    padding: 1em;
+    margin-top: 1em;
 }
 
 #favRightWrap {
@@ -314,7 +314,7 @@ aside {
     background-image: url('../images/final-home.png');
 	min-height: 22%;
     background-size: cover;
-    width: 95%;
+    width: auto;
 }
 
 #sloganwrap {
@@ -353,11 +353,11 @@ aside {
 	background-color: #0076a3;
 	border: none;
 	color: #fff;
-	padding: 1.5em 2em;
+	padding: 1em 1.5em;
 	text-align: center;
 	text-decoration: none;
 	display: inline-block;
-	font-size: 1em;
+	font-size: 18px;
 	margin: .5em 1em;
 	cursor: pointer;
 	font-family: 'Chelsea Market', sans-serif;
