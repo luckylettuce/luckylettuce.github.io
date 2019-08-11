@@ -420,11 +420,10 @@ aside {
 
 .tiles {
 	
-	width: 26%;
+	width: 33.3333%;
 	float: left;
 	color: #fff;
 	text-align:center;
-	margin: 1em 1.25em;
 	line-height: 1.5;	
 }
 
