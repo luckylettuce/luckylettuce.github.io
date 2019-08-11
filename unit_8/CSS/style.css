@@ -163,6 +163,11 @@ nav li:hover a, nav li:hover {
     	float: left;
 }
 
+#left img {
+
+		width: 100%;
+}
+
 #right {
     	background-color: none;
     	border: none;
