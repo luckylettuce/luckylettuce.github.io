@@ -167,6 +167,8 @@ nav li:hover a, nav li:hover {
 
 		width: 100%;
 		max-width: 500px;
+		display: block;
+		margin: auto;
 }
 
 #right {
@@ -230,7 +232,7 @@ nav li:hover a, nav li:hover {
  	text-align: center;
  	font-size: 4em;
     padding: 1.5em 15px;
-    margin-top: 25px;
+    margin-top: 30px;
 }
 
 #favRightWrap {
