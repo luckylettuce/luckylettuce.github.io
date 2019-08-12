@@ -239,8 +239,8 @@ nav li:hover a, nav li:hover {
 #favleft {
 	
 	background-color: #fff;
-    float: left;
-    margin: auto;
+    	float: left;
+	margin: auto;
 }
 
 .fav_img {
@@ -257,7 +257,7 @@ nav li:hover a, nav li:hover {
  	font-family: 'Chelsea Market', cursive;
  	text-align: center;
    	padding: 4em 0;
-    margin-top: 2.5em;
+    	margin-top: 2.5em;
 }
 
 
@@ -307,15 +307,15 @@ aside {
 	
 	background-color: #fff;
   	border: none;
-    width: auto;
+    	width: auto;
 }
 
 #hero {
    
-    background-image: url('../images/final-home.png');
+    	background-image: url('../images/final-home.png');
 	min-height: 22%;
-    background-size: cover;
-    width: auto;
+    	background-size: cover;
+    	width: auto;
 }
 
 #sloganwrap {
@@ -458,7 +458,7 @@ hr {
 	
 	background-image: url('../images/salad-footer.png');
 	height:250px;
-    background-size: cover;
+    	background-size: cover;
 
 }
 
