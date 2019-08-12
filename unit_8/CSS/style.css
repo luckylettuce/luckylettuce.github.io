@@ -218,11 +218,7 @@ nav li:hover a, nav li:hover {
 	width: 95%;
 }
 
-.fav_img {
-	
-	float: left;
-	margin: 1em;
-}
+
 
 #callout {
 	
@@ -246,6 +242,12 @@ nav li:hover a, nav li:hover {
     padding: .5em;
     float: left;
     margin: auto;
+}
+
+.fav_img {
+	
+	float: left;
+	padding: .25em;
 }
 
 #favright {
