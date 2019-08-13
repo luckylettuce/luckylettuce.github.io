@@ -664,6 +664,13 @@ nav ul li {
 	letter-spacing: 2px;
 	padding:25px;
 }
+	
+	.vertical-menu a:hover {
+  	
+  	background-color: #28B463;
+  	color: #fff;
+	width: 100%;
+}
 #col1_logo {
 	
 	display: none;	
