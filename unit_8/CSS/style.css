@@ -622,5 +622,24 @@ nav ul li {
 	padding:.35em; 
 }
 
+#column {
+
+	width: auto;
+}
+
+#col1_logo {
+	
+	display none;	
+}
+
+#col2_footer_nav {
+	
+	background-color: none;	
+}
+
+#col3_social {
+	
+	background-color: none;
+}
 
 }
