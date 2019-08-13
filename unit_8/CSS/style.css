@@ -589,4 +589,20 @@ footer {
 	background-color: #f1f1f1;
 }
 
+
+@media only screen and (max-width: 860px) {
+
+#sloganwrap {
+
+	display: none;
+
+}
+
+#favRightWrap {
+	
+	
+	display: none;
+	
+}
+
 }
