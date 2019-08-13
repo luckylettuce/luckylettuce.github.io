@@ -597,7 +597,7 @@ footer {
 
 }
 	
-sloganwrap: #button {
+#sloganwrap #button {
 	
 	display: none;
 	}
