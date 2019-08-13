@@ -651,6 +651,19 @@ nav ul li {
 
 @media only screen and (max-width: 480px) {
 
+	
+	.vertical-menu {
+  	
+  	font-family: 'Chelsea Market', cursive;
+	font-size: 20px;
+	list-style-type: none;
+	color: #0076a3;
+	text-decoration: none;
+	display: block;
+	font-weight:500;
+	letter-spacing: 2px;
+	padding:25px;
+}
 #col1_logo {
 	
 	display: none;	
