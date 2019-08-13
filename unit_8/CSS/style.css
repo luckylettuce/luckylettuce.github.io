@@ -312,9 +312,8 @@ aside {
 #hero {
    
     background-image: url('../images/final-home.png');
-	min-height: 22%;
 	background-size: cover;
-	width: auto;
+	width: 100%;
 }
 
 #sloganwrap {
