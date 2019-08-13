@@ -322,6 +322,7 @@ aside {
   	width: 25%;
 	padding-left: 5em;
 	text-align: left;
+	overflow: hidden;
 }
 
 #slogan {
