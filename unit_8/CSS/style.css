@@ -562,6 +562,7 @@ footer {
 	background color: #aa2562;
 	float: none;
 	width: 30%;
+	display:block;
 }
 
 .tiles {
