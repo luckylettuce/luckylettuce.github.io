@@ -319,7 +319,6 @@ aside {
 	
 	background: none;
 	padding-top: 1.25em;
-  	width: 25%;
 	padding-left: 5em;
 	text-align: left;
 	overflow: hidden;
@@ -328,7 +327,6 @@ aside {
 #slogan {
 	
 	font-family: 'Chelsea Market', cursive;
-	padding-left: 1em;
 	font-weight: 800;
 	font-size: 2.5em;
 	letter-spacing:2px;
