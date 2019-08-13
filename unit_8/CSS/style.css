@@ -457,8 +457,8 @@ hr {
 #bottom {	
 	
 	background-image: url('../images/salad-footer.png');
-	height:250px;
-    	background-size: cover;
+	height:5em;
+    background-size: cover;
 
 }
 
