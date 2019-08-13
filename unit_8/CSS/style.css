@@ -257,7 +257,7 @@ nav li:hover a, nav li:hover {
  	font-family: 'Chelsea Market', cursive;
  	text-align: center;
    	padding: 4em 0;
-    	margin-top: 2.5em;
+    margin-top: 2.5em;
 }
 
 
@@ -307,15 +307,15 @@ aside {
 	
 	background-color: #fff;
   	border: none;
-    	width: auto;
+    width: auto;
 }
 
 #hero {
    
-    	background-image: url('../images/final-home.png');
+    background-image: url('../images/final-home.png');
 	min-height: 22%;
-    	background-size: cover;
-    	width: auto;
+	background-size: cover;
+	width: auto;
 }
 
 #sloganwrap {
@@ -553,4 +553,25 @@ footer {
 	#wrapper {
 		width:1600px;
 	}
+}
+
+@media only screen and (max-width: 1100px) {
+	
+#favRightWrap {
+	
+	background color: #aa2562;
+	float: none;
+	width: auto;
+}
+
+.tiles {
+	
+	width: auto;
+	float: none;
+	color: #fff;
+	text-align:center;
+	line-height: 1.5;
+	padding: .5em;
+}
+	
 }
