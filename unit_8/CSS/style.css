@@ -591,12 +591,17 @@ footer {
 
 @media only screen and (max-width: 860px) {
 
-#sloganwrap {
+#slogan2 {
 
 	display: none;
 
 }
-
+	
+sloganwrap: #button {
+	
+	display: none;
+	}
+	
 #favRightWrap {
 	
 	display: none;
@@ -629,7 +634,7 @@ nav ul li {
 
 #col1_logo {
 	
-	display none;	
+	display: none;	
 }
 
 #col2_footer_nav {
@@ -648,7 +653,7 @@ nav ul li {
 
 #col1_logo {
 	
-	display none;	
+	display: none;	
 }
 
 #col3_social {
