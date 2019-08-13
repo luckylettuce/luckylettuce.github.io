@@ -558,8 +558,9 @@ footer {
 	
 	background color: #aa2562;
 	float: none;
-	width: 30%;
+	width: 100%;
 	display:block;
+	overflow: hidden;
 }
 
 .tiles {
@@ -643,11 +644,19 @@ nav ul li {
 
 }
 
-@media only screen and (max-width: 860px) {
+@media only screen and (max-width: 480px) {
+
+#col1_logo {
+	
+	display none;	
+}
 
 #col3_social {
 	
 	display: none;
 }
 
+#quote {
+	display: none;
+	}
 }
