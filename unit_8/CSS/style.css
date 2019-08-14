@@ -659,6 +659,16 @@ nav ul li {
 	max-width: 480px;
 }
 	
+#slogan {
+
+	display: none;
+}
+
+#sloganwrap: #button {
+
+
+	display: none;
+}
 	.vertical-menu {
   	
   	font-family: 'Chelsea Market', cursive;
