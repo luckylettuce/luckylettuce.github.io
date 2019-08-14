@@ -646,9 +646,8 @@ nav ul li {
 
 #hero {
    
-    background-image: url('../images/final-home.png');
-	background-size: cover;
-	max-width: 480px;
+    	background-image: url('../images/final-home.png');
+	width: 100%;
 }
 	
 #slogan {
