@@ -650,9 +650,13 @@ nav ul li {
 }
 
 @media only screen and (max-width: 480px) {
-<<<<<<< HEAD
-=======
 
+#hero {
+   
+    background-image: url('../images/final-home.png');
+	background-size: cover;
+	max-width: 480px;
+}
 	
 	.vertical-menu {
   	
