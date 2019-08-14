@@ -659,7 +659,22 @@ nav ul li {
 
 	display: none;
 }
-	.vertical-menu {
+#favleft {
+	
+	background-color: #fff;
+    	float: none;
+	margin: auto;
+}
+
+.fav_img {
+	
+	float: none;
+	padding: .25em;
+	size: 100%;
+}
+
+	
+.vertical-menu {
   	
   	font-family: 'Chelsea Market', cursive;
 	font-size: 20px;
@@ -673,7 +688,7 @@ nav ul li {
 	padding:1.2em;
 }
 	
-	.vertical-menu a:hover {
+.vertical-menu a:hover {
   	
   	background-color: #28B463;
   	color: #fff;
