@@ -18,7 +18,6 @@ header  {
 }
 
 #logoheader {
-
 	width: 20%;
 	float: left;
 }
@@ -644,7 +643,7 @@ nav ul li {
 
 }
 
-@media only screen and (max-width: 860px) {
+@media only screen and (max-width: 480px) {
 
 #col3_social {
 	
