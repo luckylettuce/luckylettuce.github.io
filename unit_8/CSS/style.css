@@ -321,6 +321,7 @@ aside {
 	background: none;
 	padding-top: 1.25em;
 	padding-left: 5em;
+	width: 50%;
 	text-align: left;
 	overflow: hidden;
 }
