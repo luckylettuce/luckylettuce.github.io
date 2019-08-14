@@ -658,11 +658,16 @@ nav ul li {
 }
 	
 #slogan {
-
-	display: none;
+	
+	font-family: 'Chelsea Market', cursive;
+	font-weight: 800;
+	font-size: 1.5em;
+	letter-spacing:2px;
+	color: #0076a3;
+	margin-top: .5em;
 }
 
-#sloganwrap: button {
+#slogan: button {
 
 	display: none;
 }
@@ -712,9 +717,10 @@ nav ul li {
 	display: none;	
 }
 
-	#col2_footer_nav {
+#col2_footer_nav {
     background-color: none;
 }
+	
 .column {
     width: 33.33%;
     margin: 0;
