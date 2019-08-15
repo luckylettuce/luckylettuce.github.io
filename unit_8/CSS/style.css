@@ -142,6 +142,7 @@ nav {
 
     border: none;
     padding: 1em;
+    float: left;
 }
 
 nav ul li {
