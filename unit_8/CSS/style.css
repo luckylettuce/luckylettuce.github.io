@@ -343,7 +343,25 @@ aside {
 	line-height: 1.5em;
 }
 
-.button {
+#buttontop {
+	
+	background-color: #0076a3;
+	border: none;
+	color: #fff;
+	padding: 1em 1.5em;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 18px;
+	margin: .5em 1em;
+	cursor: pointer;
+	font-family: 'Chelsea Market', sans-serif;
+	letter-spacing: 3px;
+	font-weight: 800;
+	align-content: left;
+}
+
+#buttonbottom {
 	
 	background-color: #0076a3;
 	border: none;
@@ -668,6 +686,11 @@ nav ul li {
 
 display: none;
 
+}
+
+#buttontop {
+	display: none;
+	
 }
 
 #hero {
