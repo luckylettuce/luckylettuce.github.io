@@ -509,7 +509,7 @@ footer {
 
 #footer_social {
 
-	width: 20%;
+	width: 15%;
 	margin: 1em;
 
 }
@@ -717,7 +717,7 @@ display: none;
 	margin-top: .5em;
 }
 
-#sloganwrap a {
+.sloganwrap a {
 
 	display: none;
 }
