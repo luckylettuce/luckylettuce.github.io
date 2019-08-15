@@ -530,7 +530,7 @@ footer {
 	display: block;
 	font-weight:500;
 	letter-spacing: 2px;
-	padding:15px;
+	padding:.75em;
 }
 
 .vertical-menu a {
@@ -543,7 +543,7 @@ footer {
 	display: block;
 	font-weight:500;
 	letter-spacing: 2px;
-	padding:15px;
+	padding:.75em;
 }
 
 .vertical-menu a:hover {
@@ -668,6 +668,7 @@ nav ul li {
 #col2_footer_nav {
 	
 	background-color: none;	
+	width: 100%;
 }
 
 #col3_social {
@@ -746,7 +747,7 @@ display: none;
 	text-align: center;
 	font-weight:500;
 	letter-spacing: 2px;
-	padding:1.2em;
+	padding:1.5em;
 }
 	
 .vertical-menu a:hover {
