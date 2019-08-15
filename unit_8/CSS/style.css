@@ -142,7 +142,7 @@ nav {
 
     border: none;
     padding: 1em;
-    float: left;
+    float: none;
 }
 
 nav ul li {
@@ -663,6 +663,11 @@ nav ul li {
 	padding:.55em; 
 }
 
+#logoheader {
+
+display: none;
+
+}
 
 #hero {
    
