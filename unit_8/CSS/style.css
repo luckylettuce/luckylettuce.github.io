@@ -717,7 +717,7 @@ display: none;
 	margin-top: .5em;
 }
 
-#slogan: #button {
+#sloganwrap #button {
 
 	display: none;
 }
