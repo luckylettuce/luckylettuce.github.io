@@ -393,7 +393,8 @@ aside {
 
 #col2_footer_nav {
 	
-	background-color: none;	
+	background-color: none;
+	width: 100%;	
 }
 
 #col3_social {
@@ -752,7 +753,7 @@ display: none;
   	
   	background-color: #28B463;
   	color: #fff;
-	width: 100%;
+
 }
 .column {
     width: 33.33%;
@@ -767,6 +768,7 @@ display: none;
 
 #col2_footer_nav {
     background-color: none;
+    width: 100%;
 }
 	
 .column {
