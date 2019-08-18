@@ -25,6 +25,7 @@ header  {
 #logoheader {
 	width: 200px;
 	float: left;
+	padding: 1em;
 }
 
 body {
@@ -125,12 +126,12 @@ li {
 }
 
 nav {
-font-family: 'Chelsea Market', cursive;
+	font-family: 'Chelsea Market', cursive;
 	font-size: 1em;
 	color: #0076a3;
-	text-align: center;
 	background-color: #fff;
 	font-weight: bold;	
+	padding: 1em;
    
 }
 
