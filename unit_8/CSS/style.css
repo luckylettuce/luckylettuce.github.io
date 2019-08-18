@@ -2,12 +2,19 @@
 @import url('https://fonts.googleapis.com/css?family=Raleway|Roboto+Slab:700|Roboto:500&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Chelsea+Market&display=swap');
 
+* {
+margin: 0;
+padding: 0;
+}
+
 #wrapper {
 
 	background-color: #fff;
 	max-width: 1800px;
 	margin: 0 auto;
 }
+
+
 
 header  {   
 	background-color: #f1f1f1;
@@ -159,7 +166,7 @@ nav ul li {
 nav li:hover a, nav li:hover {
 	
 	color:#28B463;
-	width: 100%;
+
 }
 
 #two_column {
@@ -192,7 +199,9 @@ nav li:hover a, nav li:hover {
 	background-color: none;
 	border: none;
 	float: right; 
+	width: 50%;
 	text-align: left;  
+	box-sizing: border-box;
 }
 
 
