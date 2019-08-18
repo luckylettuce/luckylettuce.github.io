@@ -160,7 +160,7 @@ nav li:hover a, nav li:hover {
     	border: none;
     	padding: 1em;
     	text-align: center;
-    	width: 95%;
+  		margin: auto;
 }
 
 #left {
@@ -635,7 +635,6 @@ nav {
     border: none;
     padding: 1em;
     display: block;
-    text-align: center;
 }
 
 nav ul li {
@@ -668,7 +667,7 @@ nav ul li {
 #col3_social {
 	
 	background-color: none;
-	}
+	
 
 }
 
@@ -727,7 +726,7 @@ button.top {
 #favleft {
 	
 	background-color: #fff;
-    	float: none;
+    float: none;
 	margin: auto;
 }
 
