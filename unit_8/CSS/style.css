@@ -27,17 +27,6 @@ header  {
 	float: left;
 }
 
-/* Style the search box inside the navigation bar */
-
-nav input[type=text] {
-
-  	float: right;
-  	border: 1px gray solid;
-  	margin-top: 8px;
-  	margin-right: 16px;
-  	font-size: 20px;
-}
-
 body {
 
   	color: #000;
@@ -352,7 +341,7 @@ aside {
 	line-height: 1.5em;
 }
 
-#buttontop {
+button.top {
 	
 	background-color: #0076a3;
 	border: none;
@@ -370,7 +359,7 @@ aside {
 	align-content: left;
 }
 
-#buttonbottom {
+button.bottom {
 	
 	background-color: #0076a3;
 	border: none;
@@ -705,7 +694,7 @@ display: none;
 
 }
 
-#buttontop {
+button.top {
 	display: none;
 	
 }
@@ -788,12 +777,6 @@ display: none;
 #col2_footer_nav {
     background-color: none;
 }
-	
-.column {
-    width: 33.33%;
-    margin: 0;
-    float: none;
-	}
 	
 #col3_social {
 	
