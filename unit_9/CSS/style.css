@@ -14,8 +14,6 @@ padding: 0;
 	margin: 0 auto;
 }
 
-
-
 header  {   
 	background-color: #f1f1f1;
 	border: none;
@@ -157,8 +155,9 @@ nav li:hover a, nav li:hover {
 #two_column {
     
     	background-color: #fff;
+    	max-width: 1200px;
     	border: none;
-    	padding: 1em;
+    	padding: 3em;
     	text-align: center;
   		margin: auto;
 }
