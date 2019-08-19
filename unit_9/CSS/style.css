@@ -365,6 +365,10 @@ button.bottom {
 	align-content: left;
 }
 
+button: a {
+	color: #fff;
+}
+
 .column {
 	
 	width: 33.33%;
