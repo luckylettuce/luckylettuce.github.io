@@ -244,17 +244,9 @@ nav li:hover a, nav li:hover {
  	color: #fff;
  	font-family: 'Chelsea Market', cursive;
  	text-align: center;
-   	padding: 2em;
-	position: relative;
-    	margin: 3.2em 0;
-}
-
-
-#favRightWrap {
-	
-	background color: #aa2562;
 	float: right;
-	width: 30%;
+   	padding: 2em;
+    	margin: 3.2em 0;
 }
 
 #fav_top {
