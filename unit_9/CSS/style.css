@@ -60,6 +60,7 @@ h2 {
 	font-weight:700;
 	letter-spacing: 3px;
 	color: #28B463;
+	padding: .5em;
 }
 
 h3 {	
@@ -549,13 +550,13 @@ footer {
 	}
 
 	#wrapper {
-		width:1600px;
+		width:1650px;
 	}
 }
 
 @media only screen and (max-width: 1180px) {
 	
-#favRightWrap {
+#favright {
 	
 	background color: #aa2562;
 	float: none;
@@ -587,6 +588,7 @@ footer {
 	border: none;
 	padding: 1em;
 	float: none;   
+	width: 100%;
 }
 
 #fav_top {
@@ -614,12 +616,7 @@ footer {
 	display: none;
 
 }	
-	
-#favRightWrap {
-	
-	display: none;
-	
-}
+
 
 nav {
 
@@ -717,10 +714,17 @@ button.top {
 #favleft {
 	
 	background-color: #fff;
-    float: none;
+    	float: none;
 	margin: auto;
 }
-
+	
+#favright {
+	
+	background-color: #fff;
+    	float: none;
+	margin: auto;
+}
+	
 .fav_img {
 	
 	float: none;
