@@ -126,6 +126,11 @@ li {
 	margin: 1em 1.5em;
 }
 
+#cite {
+	
+	color: #000;
+}
+
 nav {
 	font-family: 'Chelsea Market', cursive;
 	font-size: 1em;
@@ -247,19 +252,13 @@ nav li:hover a, nav li:hover {
  	text-align: center;
 	float: right;
    	padding: 2em;
-    	margin: 3.2em 0;
+    	margin: 3.6em 0;
 }
 
 #fav_top {
 	
 	float:left;
 	background-color: #f1f1f1;
-}
-
-#fav_bottom {
-	
-	float: left;
-	background-color: #f1f1f1;	
 }
 
 article {
