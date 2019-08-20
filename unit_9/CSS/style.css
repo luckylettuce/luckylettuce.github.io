@@ -635,7 +635,7 @@ nav ul li {
 }
 
 #col1_logo {
-	float: none;	
+	width: auto;	
 }
 
 #col2_footer_nav {
