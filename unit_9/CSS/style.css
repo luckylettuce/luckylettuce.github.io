@@ -203,6 +203,7 @@ nav li:hover a, nav li:hover {
 	height: 33.3333%;
 	text-align: center;
 	border: none;
+	max-width: 1350px;
 	margin: auto;
   
 }
