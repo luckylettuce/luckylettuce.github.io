@@ -466,7 +466,7 @@ hr {
 
 #footerWrap	{
 	
-	margin: 3em;
+	margin: auto;
 }
 
 footer {
@@ -688,7 +688,7 @@ button.top {
 #hero {
    
     background-image: url('../images/final-home.png');
-	height: 15em;
+	height: 100%;
 }
 	
 #slogan {
