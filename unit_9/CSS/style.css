@@ -605,11 +605,7 @@ footer {
 
 
 @media only screen and (max-width: 880px) {
-	
-#sloganwrap #button {
-	
-	display: none;
-	}
+
 
 #sloganwrap: a  {	
 
@@ -639,18 +635,17 @@ nav ul li {
 }
 
 #col1_logo {
-	display: none;	
+	float: none;	
 }
 
 #col2_footer_nav {
 	
 	background-color: none;	
-	width: 100%;
 }
 
 #col3_social {
 	
-	background-color: none;
+	float: none;
 	
 
 }
