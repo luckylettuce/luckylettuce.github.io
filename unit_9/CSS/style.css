@@ -652,6 +652,10 @@ nav ul li {
 
 @media only screen and (max-width: 480px) {
 
+nav { 
+	float:none;
+	}
+	
 nav ul li {
 
 	font-family: 'Chelsea Market', cursive;
@@ -676,7 +680,7 @@ button.top {
 #hero {
    
     background-image: url('../images/final-home.png');
-	height: 100%;
+	width: 100%;
 }
 	
 #slogan {
