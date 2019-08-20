@@ -296,7 +296,8 @@ aside {
    
     background-image: url('../images/final-home.png');
 	background-size: cover;
-	width: 100%;
+	width: auto;
+	min-height: 350px;
 }
 
 #sloganwrap {
@@ -604,12 +605,6 @@ footer {
 
 
 @media only screen and (max-width: 880px) {
-
-#slogan2 {
-
-	display: none;
-
-}
 	
 #sloganwrap #button {
 	
@@ -619,19 +614,16 @@ footer {
 #sloganwrap: a  {	
 
 	display: none;
-
 }	
 
-
 nav {
-
     border: none;
     padding: 1em;
     display: block;
+    float:none;
 }
 
 nav ul li {
-
 	font-family: 'Chelsea Market', cursive;
 	list-style-type: none;
 	color: #0076a3;
@@ -647,7 +639,6 @@ nav ul li {
 }
 
 #col1_logo {
-	
 	display: none;	
 }
 
@@ -678,7 +669,7 @@ nav ul li {
 
 #logoheader {
 
-display: none;
+float: none;
 
 }
 
