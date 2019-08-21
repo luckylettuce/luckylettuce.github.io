@@ -656,7 +656,7 @@ nav ul li {
 
 #col2_footer_nav {
 	
-	background-color: none;	
+	float: right;
 }
 
 #col3_social {
