@@ -667,6 +667,10 @@ nav ul li {
 	margin: 0 auto;
 }
 	
+header  {   
+	padding: 0;	
+}
+	
 nav { 
 	float:none;
 	}
