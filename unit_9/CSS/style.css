@@ -303,7 +303,7 @@ aside {
 #sloganwrap {
 	
 	background: none;
-	padding-top: 1.25em;
+	padding-top: 2em;
 	padding-left: 5em;
 	width: 50%;
 	text-align: left;
@@ -645,10 +645,9 @@ nav ul li {
 
 #col3_social {
 	
-	float: none;
-	
-
+	float: none;	
 }
+
 
 @media only screen and (max-width: 480px) {
 
@@ -687,15 +686,10 @@ button.top {
 	
 	font-family: 'Chelsea Market', cursive;
 	font-weight: 800;
-	font-size: 1.15em;
+	font-size: 1em;
 	letter-spacing:2px;
 	color: #0076a3;
 	margin-top: .5em;
-}
-
-.sloganwrap a {
-
-	display: none;
 }
 	
 .tileSig {
