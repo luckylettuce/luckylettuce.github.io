@@ -41,6 +41,7 @@ p {
 	font-size: 1em;
 	font-style: normal;
 	line-height: 1.5;
+	padding: .5em;
 }
 
 h1 {
@@ -636,6 +637,12 @@ nav ul li {
 	float: none;
 	padding: .25em;
 	size: 100%;
+}
+	
+#favleft {
+
+    float: none;
+
 }
 
 #column {
