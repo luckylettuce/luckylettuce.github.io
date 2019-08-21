@@ -166,7 +166,7 @@ nav li:hover a, nav li:hover {
     	border: none;
     	padding: 3em;
     	text-align: center;
-  		margin: auto;
+  	margin: auto;
 }
 
 #left {
@@ -604,18 +604,20 @@ footer {
 }
 
 
-@media only screen and (max-width: 880px) {
+@media only screen and (max-width: 850px) {
+	
+body {
 
+  	color: #000;
+	font-family: 'Raleway', sans-serif;
+	font-size: 18px;
+}
 
-#sloganwrap: a  {	
-
-	display: none;
-}	
 
 nav {
-    border: none;
     padding: 1em;
     display: block;
+    margin: auto;
     float:none;
 }
 
@@ -627,6 +629,13 @@ nav ul li {
 	font-weight:700;
 	letter-spacing: 2px;
 	padding:.35em; 
+}
+	
+.fav_img {
+	
+	float: none;
+	padding: .25em;
+	size: 100%;
 }
 
 #column {
@@ -648,9 +657,16 @@ nav ul li {
 	float: none;	
 }
 
+	}
 
 @media only screen and (max-width: 480px) {
 
+#wrapper {
+
+	width: auto;
+	margin: 0 auto;
+}
+	
 nav { 
 	float:none;
 	}
