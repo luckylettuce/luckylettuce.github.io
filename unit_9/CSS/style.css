@@ -2,6 +2,7 @@
 @import url('https://fonts.googleapis.com/css?family=Raleway|Roboto+Slab:700|Roboto:500&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Chelsea+Market&display=swap');
 
+
 * {
 margin: 0;
 padding: 0;
@@ -134,29 +135,27 @@ li {
 
 nav {
 	font-family: 'Chelsea Market', cursive;
+	text-align: center;
+	color: #0076a3;
+	background-color: #fff;	   
+}
+
+nav a {
+
+	font-family: 'Chelsea Market', cursive;
 	font-size: 1em;
 	color: #0076a3;
 	background-color: #fff;
-	font-weight: bold;	
-	padding: 1em;
 	float: right;
-   
-}
-
-nav ul li {
-
-	font-family: 'Chelsea Market', cursive;
-	list-style-type: none;
-	color: #0076a3;
-	display: inline-block;
+	display: block;
 	font-weight:700;
 	letter-spacing: 2px;
 	padding:.35em; 
 }
 
-nav li:hover a, nav li:hover {
+nav a:hover {
 	
-	color:#28B463;
+	background-color:#28B463;
 
 }
 
@@ -622,7 +621,7 @@ nav {
     float:none;
 }
 
-nav ul li {
+nav a {
 	font-family: 'Chelsea Market', cursive;
 	list-style-type: none;
 	color: #0076a3;
@@ -682,7 +681,7 @@ nav {
 	float:none;
 	}
 	
-nav ul li {
+nav a {
 
 	font-family: 'Chelsea Market', cursive;
 	list-style-type: none;
