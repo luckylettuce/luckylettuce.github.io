@@ -6,7 +6,9 @@
 * {
 margin: 0;
 padding: 0;
+box-sizing: border-box;
 }
+
 
 #wrapper {
 
@@ -17,7 +19,8 @@ padding: 0;
 
 #mobile { 
 
-	display: none; }
+	display: none; 
+}
 
 header  {   
 	padding: 1em;
@@ -151,6 +154,7 @@ nav a {
 	font-family: 'Chelsea Market', cursive;
 	font-size: 1em;
 	color: #28B463;
+	width: 16.6%;
 	float: left;
 	display: block;
 	font-weight:700;
