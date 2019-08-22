@@ -23,7 +23,7 @@ box-sizing: border-box;
 }
 
 header  {   
-	padding: 1em;
+	padding: 1em 0;
 	margin: auto;
 }
 
@@ -146,7 +146,8 @@ nav {
 	text-align: center;
 	color: #28B463;	
 	margin: auto; 
-	background-color: #f1f1f1;  
+	background-color: #f1f1f1; 
+	width: auto; 
 }
 
 nav a {
@@ -154,7 +155,7 @@ nav a {
 	font-family: 'Chelsea Market', cursive;
 	font-size: 1em;
 	color: #28B463;
-	width: 16.6%;
+	width: 22%;
 	float: left;
 	display: block;
 	font-weight:700;
@@ -169,6 +170,11 @@ nav a: hover {
 	background-color:#28B463;
 
 }
+
+#mobileWelcome {
+	display: none;
+}
+
 
 #two_column {
     
@@ -706,6 +712,17 @@ nav:hover a {
 
 	width: auto;
 	margin: 0 auto;
+}
+
+#mobileWelcome
+
+{
+	display: block;
+	font-family: 'Roboto Slab', serif;
+	font-weight: 700;
+	font-size: 1em;
+	color: #000;
+	padding-bottom: .5em;
 }
 	
 header  {   
