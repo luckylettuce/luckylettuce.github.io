@@ -94,6 +94,9 @@ a:visited {
   	color: #aa2562;
 }
 
+button a:visited {
+  	color: #FFF;
+}
 /* mouse over link */
 a:hover {
   	color: #28B463;
