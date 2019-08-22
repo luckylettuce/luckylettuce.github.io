@@ -96,7 +96,7 @@ a:visited {
 
 /* mouse over link */
 a:hover {
-  	color: white;
+  	color: #28B463;
 }
 
 /* selected link */
@@ -139,8 +139,7 @@ li {
 nav {
 	font-family: 'Chelsea Market', cursive;
 	text-align: center;
-	color: #28B463;
-	background-color: #f1f1f1;	
+	color: #28B463;	
 	margin: auto;   
 }
 
