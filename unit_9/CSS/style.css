@@ -670,6 +670,26 @@ nav a {
 
 	}
 
+	@media only screen and (max-width: 780px) {
+
+#mobile {
+	display:block;
+}
+
+nav a {
+	float:none;
+	width: auto;
+	padding: .25em 0;
+	display: none;
+	}
+
+nav: hover a {
+	display: block;
+	}
+
+}
+
+
 @media only screen and (max-width: 480px) {
 
 #wrapper {
@@ -685,16 +705,7 @@ header  {
 nav { 
 	float:none;
 	}
-	
-nav a {
 
-	font-family: 'Chelsea Market', cursive;
-	list-style-type: none;
-	color: #0076a3;
-	font-weight:700;
-	letter-spacing: 2px;
-	padding:.55em; 
-}
 
 #logoheader {
 
