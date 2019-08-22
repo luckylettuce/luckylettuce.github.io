@@ -136,8 +136,9 @@ li {
 nav {
 	font-family: 'Chelsea Market', cursive;
 	text-align: center;
-	color: #0076a3;
-	background-color: #fff;	   
+	color: #28B463;
+	background-color: #f1f1f1;	
+	margin: auto;   
 }
 
 nav a {
@@ -146,7 +147,7 @@ nav a {
 	font-size: 1em;
 	color: #0076a3;
 	background-color: #fff;
-	float: right;
+	float: left
 	display: block;
 	font-weight:700;
 	letter-spacing: 2px;
