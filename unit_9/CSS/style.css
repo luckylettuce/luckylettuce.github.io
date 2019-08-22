@@ -155,7 +155,9 @@ nav a {
 	display: block;
 	font-weight:700;
 	letter-spacing: 2px;
-	padding:.35em; 
+	padding: .5em;
+    margin-top: 1em;
+} 
 }
 
 nav a: hover {
