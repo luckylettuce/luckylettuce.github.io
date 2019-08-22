@@ -341,7 +341,7 @@ button.top {
 	background-color: #0076a3;
 	border: none;
 	color: #fff;
-	padding: 1em 1.5em;
+	padding: 1em;
 	text-align: center;
 	text-decoration: none;
 	display: inline-block;
@@ -359,7 +359,7 @@ button.bottom {
 	background-color: #28B463;
 	border: none;
 	color: #fff;
-	padding: 1em 1.5em;
+	padding: 1em;
 	text-align: center;
 	text-decoration: none;
 	display: inline-block;
