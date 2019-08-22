@@ -15,10 +15,13 @@ padding: 0;
 	margin: 0 auto;
 }
 
+#mobile { 
+
+	display: none; }
+
 header  {   
 	border: none;
 	padding: 1em;
-	width: 1200px;
 	margin: auto;
 }
 
@@ -146,7 +149,6 @@ nav a {
 	font-family: 'Chelsea Market', cursive;
 	font-size: 1em;
 	color: #0076a3;
-	background-color: #fff;
 	float: left
 	display: block;
 	font-weight:700;
@@ -154,7 +156,7 @@ nav a {
 	padding:.35em; 
 }
 
-nav a:hover {
+nav a: hover {
 	
 	background-color:#28B463;
 
@@ -162,11 +164,11 @@ nav a:hover {
 
 #two_column {
     
-    	background-color: #fff;
-    	max-width: 1800px;
-    	border: none;
-    	padding: 3em;
-    	text-align: center;
+    background-color: #fff;
+    max-width: 1800px;
+    border: none;
+    padding: 3em;
+    text-align: center;
   	margin: auto;
 }
 
