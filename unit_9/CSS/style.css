@@ -737,12 +737,7 @@ button.top {
 	
 #slogan {
 	
-	font-family: 'Chelsea Market', cursive;
-	font-weight: 800;
-	font-size: 1em;
-	letter-spacing:2px;
-	color: #0076a3;
-	margin-top: .5em;
+	font-size: .5em;	
 }
 	
 .tileSig {
@@ -756,14 +751,14 @@ button.top {
 #favleft {
 	
 	background-color: #fff;
-    	float: none;
+    float: none;
 	margin: auto;
 }
 	
 #favright {
 	
 	background-color: #fff;
-    	float: none;
+    float: none;
 	margin: auto;
 }
 	
@@ -803,17 +798,13 @@ button.top {
 	
 #col1_logo {
 	
-	display: none;	
+	float: left;	
 }
 
 #col2_footer_nav {
     background-color: none;
 }
 	
-#col3_social {
-	
-	display: none;
-}
 
 #quote {
 	display: none;
