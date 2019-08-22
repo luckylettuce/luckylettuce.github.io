@@ -85,11 +85,6 @@ link {
   	display: none;
 }
 
-/* unvisited link */
-a:link {
-  	color: #add8e6;
-	text-decoration: none;
-}
 
 /* visited link */
 a:visited {
@@ -283,7 +278,6 @@ nav a: hover {
 article {
 	
 	background-color: none;
-   	border: 1px black solid;
 }
 
 aside {
