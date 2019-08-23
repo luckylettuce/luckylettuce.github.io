@@ -252,8 +252,14 @@ nav a: hover {
 #favleft {
 	
 	background-color: #fff;
-    	float: left;
+    float: left;
 	margin: auto;
+}
+
+
+#favleft img {
+
+	padding: 1em;
 }
 
 .fav_img {
