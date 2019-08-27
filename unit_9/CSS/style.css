@@ -284,7 +284,7 @@ nav a: hover {
  	text-align: center;
 	float: right;
 	padding: 2em;
-    	width: 20em;
+    	width: 400px;
 
 }
 article {
@@ -617,19 +617,13 @@ footer {
 	width: 100%;
 }
 
-#fav_top {
-	
-	float:none;
-	background-color: #f1f1f1;
-}
-
 }
 
 @media only screen and (max-width: 1080px) {
 	
 #aboutright {
 	
-    float: none;
+    	float: none;
 	margin: auto;
 }
 	
@@ -790,12 +784,6 @@ button.top {
 }
 	
 #favright {
-	
-    float: none;
-	margin: auto;
-}
-	
-#aboutright {
 	
     float: none;
 	margin: auto;
