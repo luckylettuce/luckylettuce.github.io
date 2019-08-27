@@ -282,6 +282,18 @@ nav a: hover {
 
 }
 
+#aboutright {
+ 	
+ 	background-color: #aa2562;
+ 	color: #fff;
+ 	font-family: 'Chelsea Market', cursive;
+ 	text-align: center;
+	float: right;
+   	padding: 2em;
+    	margin: 3.6em 0;
+    	width: 400px;
+
+}
 article {
 	
 	background-color: none;
