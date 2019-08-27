@@ -624,6 +624,17 @@ footer {
 }
 
 }
+
+@media only screen and (max-width: 1080px) {
+	
+#aboutright {
+	
+    float: none;
+	margin: auto;
+}
+	
+}
+
 @media only screen and (max-width: 850px) {
 	
 body {
@@ -691,6 +702,9 @@ nav a {
 	display:block;
 }
 
+		
+		
+		
 nav a {
 	float:none;
 	width: auto;
@@ -776,6 +790,12 @@ button.top {
 }
 	
 #favright {
+	
+    float: none;
+	margin: auto;
+}
+	
+#aboutright {
 	
     float: none;
 	margin: auto;
