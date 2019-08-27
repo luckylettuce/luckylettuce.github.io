@@ -480,7 +480,7 @@ hr {
 	
 	background-image: url('../images/salad-footer.png');
 	height:5em;
-    background-size: cover;
+   	background-size: cover;
 
 }
 
@@ -530,8 +530,6 @@ footer {
 }
 
 .vertical-menu {
-  	
-  	font-family: 'Chelsea Market', cursive;
 	font-size: 20px;
 	list-style-type: none;
 	color: #0076a3;
@@ -639,7 +637,7 @@ nav {
 }
 
 nav a {
-	font-family: 'Chelsea Market', cursive;
+	
 	list-style-type: none;
 	color: #0076a3;
 	display: inline-block;
