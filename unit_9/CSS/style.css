@@ -619,16 +619,6 @@ footer {
 
 }
 
-@media only screen and (max-width: 1080px) {
-	
-#aboutright {
-	
-    	float: none;
-	margin: auto;
-}
-	
-}
-
 @media only screen and (max-width: 850px) {
 	
 body {
@@ -696,7 +686,11 @@ nav a {
 	display:block;
 }
 
-		
+#aboutright {
+	
+    	float: none;
+	margin: auto;
+}		
 		
 		
 nav a {
