@@ -1,9 +1,36 @@
 <!DOCTYPE html>
 <html lang="en">
-
  <head>
-  <title>Luckylettuce Staff Favorite</title>
-
+  <title>Luckylettuce Favorites</title>
+<style type="text/css"> 
+	@media only screen and (max-device-width: 480px) {
+		#main-table {
+			width: 100%;
+		}
+		
+		#logo {
+			width:100%;
+		}
+		
+		#fave {
+			width:100%;
+		}
+		
+		#lettuce {
+			width:100%;
+		}
+		
+		a {
+			display: block;
+			text-align: center;
+			padding: 15px;
+		}
+		
+		body {
+			font-size: 16px;
+		}
+	}
+			
 <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 
@@ -14,7 +41,7 @@
 <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%" align="center" bgcolor="F2F3F4  ">
 	<tr>
 		<td>
-			<table role="presentation" border="0" bgcolor="FFFFFF" cellpadding="15px" width="600" align="center">
+			<table role="presentation" border="0" bgcolor="FFFFFF" cellpadding="15px" width="600" align="center" id="main-table">
 				<tr>
 					<td align="center"><a href="https://luckylettuce.github.io/unit_9/index.html#"><img width="300px" src="https://github.com/luckylettuce/luckylettuce.github.io/blob/master/unit_10/images/new-lucky-logo.png?raw=true" /></a></td>
 				</tr>
@@ -36,7 +63,7 @@
 			<td align="center"><span style="font-family: 'Open Sans', sans-serif; font-weight: 600; font-size: 20px; color: #058488;">See What the Fuss is About</span></td>
 				</tr>
 				<tr>
-					<td align="center"><a href="#"><img style="border:2px solid green" width="400" src="https://github.com/luckylettuce/luckylettuce.github.io/blob/master/unit_10/images/trio.png?raw=true" alt="Trio of Spices" /></a></td>
+					<td align="center"><a href="#"><img id="fave" style="border:2px solid green" width="400" src="https://github.com/luckylettuce/luckylettuce.github.io/blob/master/unit_10/images/trio.png?raw=true" alt="Trio of Spices" /></a></td>
 				</tr>
 				
 				
@@ -91,7 +118,7 @@
 				</tr>
 				
 				<tr>
-					<td align="center" valign="middle"><img width="70px" src="https://github.com/luckylettuce/luckylettuce.github.io/blob/master/unit_10/images/lettuce.png?raw=true" alt="Luckylettuce" /></td>
+					<td align="center" valign="middle"><img id="lettuce" width="70px" src="https://github.com/luckylettuce/luckylettuce.github.io/blob/master/unit_10/images/lettuce.png?raw=true" alt="Luckylettuce" /></td>
 				</tr>
 			</table>
 		</td>
