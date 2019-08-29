@@ -691,7 +691,8 @@ nav a {
 #aboutright {
 	
     	float: none;
-	margin: auto;
+		margin: auto;
+		width: 100%;
 }		
 		
 		
