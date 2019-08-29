@@ -137,6 +137,7 @@ li {
 #cite {
 	
 	color: #000;
+	font-weight: bold;
 }
 
 nav {
@@ -179,7 +180,8 @@ nav a: hover {
 #two_column {
     
     background-color: #fff;
-    max-width: 1800px;
+    width: 1200px;
+	max-width: 1800px;
     border: none;
     padding: 3em;
     text-align: center;
@@ -261,6 +263,7 @@ nav a: hover {
 	
 	float: left;
 	padding: .25em;
+	width: 33.33%;
 }
 
 #favright {
@@ -448,12 +451,12 @@ button: a {
 
 .tiles {
 	
-	width: 31.5%;
+	width: 33.3%;
 	float: left;
 	color: #fff;
 	text-align:center;
 	line-height: 1.5;
-	padding: .5em;
+	padding: 1em;
 }
 
 .tileSig {
