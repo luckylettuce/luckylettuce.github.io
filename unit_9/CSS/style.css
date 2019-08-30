@@ -693,10 +693,16 @@ nav a {
 #aboutright {
 	
     	float: none;
-		margin: auto;
-		width: 100%;
+	margin: auto;
+	width: 100%;
 }		
-		
+	
+#right 	{
+	
+    	float: none;
+	margin: auto;
+	width: 100%;
+}		
 		
 nav a {
 	float:none;
