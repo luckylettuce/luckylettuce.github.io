@@ -256,6 +256,13 @@ nav a: hover {
 	width: 33.33%;
 }
 
+#aboutimg
+
+{
+
+	width:100%;
+}
+
 #favright {
  	
  
@@ -274,10 +281,8 @@ nav a: hover {
  	color: #fff;
  	font-family: 'Chelsea Market', cursive;
  	text-align: center;
-	float: right;
 	padding: 2em;
     width: 65%;
-	border: 1px black solid;
 }
 
 .clearfix:after {
