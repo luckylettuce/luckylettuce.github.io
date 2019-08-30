@@ -799,6 +799,15 @@ button.top {
     color: #fff373;
     text-align: center;
 }
+
+#aboutfavleft {
+	
+	background-color: #fff;
+    	float: none;
+	margin: auto;
+	width: 100%;
+}	
+	
 #favleft {
 	
 	background-color: #fff;
@@ -806,6 +815,7 @@ button.top {
 	margin: auto;
 	width: 100%;
 }
+	
 #aboutright {
 	padding: .5em;
     	width: 100%;
