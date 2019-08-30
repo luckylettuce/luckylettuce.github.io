@@ -795,8 +795,9 @@ button.top {
 #favleft {
 	
 	background-color: #fff;
-    float: none;
+    	float: none;
 	margin: auto;
+	width: 100%;
 }
 	
 #favright {
