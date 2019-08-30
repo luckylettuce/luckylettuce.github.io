@@ -91,12 +91,9 @@ a:link {
 }
 /* visited link */
 a:visited {
-  	color: yellow;
+  	color: #28B463;
 }
 
-button a:visited {
-  	color: #FFF;
-}
 /* mouse over link */
 a:hover {
   	color: #28B463;
