@@ -195,6 +195,15 @@ nav a: hover {
 	
 }
 
+#aboutfavleft {
+	
+	background-color: #fff;
+    	float: left;
+	margin: auto;
+	width: 50%;
+}
+
+
 #favleft {
 	
 	background-color: #fff;
@@ -270,7 +279,7 @@ nav a: hover {
 
 #aboutimg {
 
-	height:100%;
+	width:100%;
 }
 
 #favright {
