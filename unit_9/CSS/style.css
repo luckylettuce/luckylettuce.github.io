@@ -91,7 +91,7 @@ a:link {
 }
 /* visited link */
 a:visited {
-  	color: #a472c5;
+  	color: yellow;
 }
 
 button a:visited {
@@ -210,7 +210,7 @@ nav a: hover {
 	max-width: 500px;
 	display: block;
 	margin: auto;
-	
+
 }
 
 #right {
