@@ -91,7 +91,7 @@ a:link {
 }
 /* visited link */
 a:visited {
-  	color: #aa2562;
+  	color: #a472c5;
 }
 
 button a:visited {
@@ -227,14 +227,6 @@ nav a: hover {
   
 }
 
-#fav_Wrap {  
-	
-	text-align: center;
-	background-color: #fff;
-	border: none;
-	margin: auto;
-	width: 100%;
-}
 
 #callout {
 	
@@ -251,12 +243,7 @@ nav a: hover {
 	padding-bottom: .5em;
 }
 
-#favleft {
-	
-	background-color: #fff;
-    float: left;
-	margin: auto;
-}
+
 
 .fav_img {
 	
