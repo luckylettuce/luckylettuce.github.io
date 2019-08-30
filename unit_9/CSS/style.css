@@ -222,7 +222,7 @@ nav a: hover {
 	height: 33.3333%;
 	text-align: center;
 	border: none;
-	max-width: 1350px;
+	width: 1200px;
 	margin: auto;
   
 }
@@ -372,7 +372,7 @@ aside {
 	align-content: left;
 }
 
-#bottom {
+#bottombtn {
 	
 	background-color: #28B463;
 	border: none;
