@@ -176,10 +176,10 @@ nav a: hover {
 #two_column {
     
     	background-color: #fff;
-    	width: 1200px;
+    	width: auto;
 	max-width: 1800px;
     	border: none;
-    	padding: 3em;
+    	padding: 1em;
     	text-align: center;
   	margin: auto;
 }
@@ -190,6 +190,7 @@ nav a: hover {
 	border: none;
 	padding: 1em;
 	float: left;
+	width: 50%;
 	
 }
 
@@ -219,6 +220,7 @@ nav a: hover {
 	padding: 1em;
 	text-align: left;  
 	box-sizing: border-box;
+	width: 50%;
 }
 
 
@@ -359,11 +361,19 @@ nav a: hover {
 	align-content: left;
 }
 
+#top a { 
+	color: #fff;
+}
+	
+
+#bottombtn a { 
+	color: #fff;
+}
+
 #bottombtn {
 	
 	background-color: #28B463;
 	border: none;
-	color: #fff;
 	padding: 1em;
 	text-align: center;
 	text-decoration: none;
