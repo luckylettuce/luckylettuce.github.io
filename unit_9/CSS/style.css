@@ -300,9 +300,9 @@ nav a: hover {
  	background-color: #aa2562;
  	color: #fff;
  	font-family: 'Chelsea Market', cursive;
- 	text-align: center;
-	padding: 2em;
-    	width: 65%;
+ 	text-align: left;
+	padding: 1em;
+    	width: 50%;
 	float: left;
 }
 
