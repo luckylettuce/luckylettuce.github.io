@@ -146,10 +146,9 @@ nav {
 	margin: auto; 
 	background-color: #f1f1f1; 
 	width: auto; 
-	float: right;
 }
 
-nav a {
+nav: a {
 
 	font-family: 'Raleway', sans-serif;
 	font-size: 1.25em;
