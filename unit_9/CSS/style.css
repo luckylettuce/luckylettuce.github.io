@@ -274,6 +274,11 @@ nav a: hover {
 	width: 100%;
 }
 
+#lucky13img {
+	float: left;
+	padding: 1em;
+	width: 50%;
+}
 
 #aboutimg {
 
