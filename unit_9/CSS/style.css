@@ -67,7 +67,6 @@ h2 {
 	font-weight:700;
 	letter-spacing: 3px;
 	color: #28B463;
-	padding: .5em;
 }
 
 h3 {	
@@ -147,6 +146,7 @@ nav {
 	margin: auto; 
 	background-color: #f1f1f1; 
 	width: auto; 
+	float: right;
 }
 
 nav a {
@@ -157,15 +157,14 @@ nav a {
 	color: #aa2562;
 	text-decoration: none;
 	width: 22%;
-	float: left;
-	display: block;
+	display: inline-block;
 	font-weight:700;
 	letter-spacing: 2px;
 	padding: .5em;
-    	margin-top: 1em;
+    margin-top: 1em;
 } 
 
-
+		
 nav a: hover {
 	
 	background-color:#28B463;
@@ -331,7 +330,7 @@ aside {
 	padding-top: 2em;
 	padding-left: 5em;
 	width: 50%;
-	text-align: left;
+	text-align:		 left;
 	overflow: hidden;
 }
 
@@ -356,7 +355,7 @@ aside {
 	line-height: 1.5em;
 }
 
-button.top {
+#top {
 	
 	background-color: #0076a3;
 	border: none;
@@ -374,7 +373,7 @@ button.top {
 	align-content: left;
 }
 
-button.bottom {
+#bottom {
 	
 	background-color: #28B463;
 	border: none;
@@ -391,8 +390,8 @@ button.bottom {
 	font-weight: 800;
 	align-content: left;
 }
-
-button: a {
+ 
+ a {
 	color: #fff;
 }
 
@@ -418,14 +417,6 @@ button: a {
 	
 	background-color: none;
 }
-
-#top {   
-	
-	background-color: #fff;
-	border: 1px black solid;
-  	padding: 1em;
-}
-
 
 #testimonials {   
 	
@@ -454,7 +445,7 @@ button: a {
 	width: 33.3%;
 	float: left;
 	color: #fff;
-	text-align:center;
+	text-align:left;
 	line-height: 1.5;
 	padding: 1em;
 }
@@ -755,7 +746,7 @@ float: none;
 button.top {
 	display: none;
 	
-}
+}		
 
 #hero {
    
