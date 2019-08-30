@@ -228,7 +228,7 @@ nav a: hover {
 }
 
 #fav_Wrap {  
-	
+	background-color: #aa2562;
 	text-align: center;
 	background-color: #fff;
 	border: none;
@@ -254,7 +254,7 @@ nav a: hover {
 #favleft {
 	
 	background-color: #fff;
-    	float: left;
+    float: left;
 	margin: auto;
 }
 
@@ -267,14 +267,14 @@ nav a: hover {
 
 #favright {
  	
- 	background-color: #aa2562;
+ 
  	color: #fff;
  	font-family: 'Chelsea Market', cursive;
  	text-align: center;
-	float: right;
+	float: left;
    	padding: 2em;
-    	margin: 3.6em 0;
-    	width: 300px;
+    margin: 3.6em 0;
+    width: 300px;
 
 }
 
