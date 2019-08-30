@@ -364,10 +364,17 @@ nav a: hover {
 #top a { 
 	color: #fff;
 }
-	
+
+#top a:hover {
+	color: #fff373;
+}
 
 #bottombtn a { 
 	color: #fff;
+}
+
+#bottombtn a:hover {
+	color: #fff373;
 }
 
 #bottombtn {
