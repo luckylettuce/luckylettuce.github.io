@@ -296,8 +296,7 @@ nav a: hover {
 }
 
 #aboutright {
- 	
- 	background-color: #aa2562;
+ 
  	color: #fff;
  	font-family: 'Chelsea Market', cursive;
  	text-align: left;
@@ -808,6 +807,11 @@ button.top {
     	float: none;
 	margin: auto;
 	width: 100%;
+}
+#aboutright {
+	padding: .5em;
+    	width: 100%;
+	float: none;
 }
 	
 #favright {
