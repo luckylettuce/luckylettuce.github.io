@@ -195,12 +195,22 @@ nav a: hover {
 	float: left;
 }
 
+#favleft {
+	
+	background-color: #fff;
+    float: left;
+	margin: auto;
+	width: 50%;
+}
+
+
 #left img {
 
 	width: 100%;
 	max-width: 500px;
 	display: block;
 	margin: auto;
+	
 }
 
 #right {
@@ -222,7 +232,7 @@ nav a: hover {
 	height: 33.3333%;
 	text-align: center;
 	border: none;
-	width: 1200px;
+	width: 1800px;
 	margin: auto;
   
 }
