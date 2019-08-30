@@ -86,6 +86,7 @@ link {
 
 a:link {
 	text-decoration: none;
+	color: #fff;
 
 }
 /* visited link */
@@ -148,7 +149,7 @@ nav {
 	width: auto; 
 }
 
-nav: a {
+nav a {
 
 	font-family: 'Raleway', sans-serif;
 	font-size: 1.25em;
@@ -390,9 +391,6 @@ aside {
 	align-content: left;
 }
  
- a {
-	color: #fff;
-}
 
 .column {
 	
