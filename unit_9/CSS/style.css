@@ -259,9 +259,15 @@ nav a: hover {
 	width: 33.33%;
 }
 
-#aboutimg
 
-{
+#luckyimg {
+	float: left;
+	padding: .25em;
+	width: 50%;
+}
+
+
+#aboutimg {
 
 	height:100%;
 }
@@ -285,7 +291,7 @@ nav a: hover {
  	font-family: 'Chelsea Market', cursive;
  	text-align: center;
 	padding: 2em;
-    width: 65%;
+    	width: 65%;
 }
 
 .clearfix:after {
@@ -717,6 +723,11 @@ nav:hover a {
 	margin: 0 auto;
 }
 
+#luckyimg {
+	
+	width: 100%;
+	
+	}
 #mobileWelcome
 
 {
