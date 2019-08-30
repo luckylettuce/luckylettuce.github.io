@@ -262,7 +262,7 @@ nav a: hover {
 
 #luckyimg {
 	float: left;
-	padding: .25em;
+	padding: 1em;
 	width: 50%;
 }
 
@@ -398,7 +398,8 @@ nav a: hover {
 	font-family: 'Chelsea Market', sans-serif;
 	letter-spacing: 3px;
 	font-weight: 800;
-	align-content: left;
+	float: left;
+
 }
  
 
